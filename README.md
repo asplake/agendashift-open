@@ -3,9 +3,9 @@
 Markdown sources for the CC-BY-SA content on [agendashift.com], in particular (and in due course):
 
  * [Agendashift as framework]
-   * [Principles]
-   * [Patterns]
-   * [Core Activities]
+    * [Principles]
+    * [Patterns]
+    * [Core Activities]
  * [Workshops]
  * [Resources]
  
