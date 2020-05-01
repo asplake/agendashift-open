@@ -24,5 +24,5 @@ Agendashift™ is copyright © 2015-2020 Positive Incline Ltd. All rights reserv
 [Workshops]: https://www.agendashift.com/workshops
 [Transformation strategy workshops]: https://www.agendashift.com/workshops/transformation-strategy
 [Outside-in strategy workshops]: https://www.agendashift.com/workshops/outside-in-strategy
-[short training workshops workshops]: https://www.agendashift.com/workshops/short-training
+[Short training workshops]: https://www.agendashift.com/workshops/short-training
 [Resources]: https://www.agendashift.com/resources
