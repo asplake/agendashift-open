@@ -2,12 +2,12 @@
 
 Markdown sources for the CC-BY-SA content on [agendashift.com], in particular (and in due course):
 
-  * [Agendashift as framework]
-    * [Principles]
-    * [Patterns]
-    * [Core Activities]  
-  * [Workshops]
-  * [Resources]
+* [Agendashift as framework]
+  * [Principles]
+  * [Patterns]
+  * [Core Activities]  
+* [Workshops]
+* [Resources]
  
 For rendering purposes, markdown link references are generated programmatically from existing config and are available at agendashift.com/sitemap.md. For the most part (this page being an exception), they are omitted from page sources.
 
