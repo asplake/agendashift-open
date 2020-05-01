@@ -7,6 +7,9 @@ Markdown sources for the CC-BY-SA content on [agendashift.com], in particular (a
   - [Patterns]
   - [Core Activities] 
 - [Workshops]
+  - [Transformation strategy workshops]
+  - [Outside-in strategy workshops]
+  - [Short training workshops]
 - [Resources]
 
 For rendering purposes, markdown link references are generated programmatically from existing config and are available at agendashift.com/sitemap.md. For the most part (this page being an exception), they are omitted from page sources.
@@ -19,4 +22,7 @@ Agendashift™ is copyright © 2015-2020 Positive Incline Ltd. All rights reserv
 [Patterns]: https://www.agendashift.com/framework/patterns
 [Core Activities]: https://www.agendashift.com/framework/core-activities
 [Workshops]: https://www.agendashift.com/workshops
+[Transformation strategy]
+[Outside-in strategy]
+[short training workshops]: /workshops/short-training
 [Resources]: https://www.agendashift.com/resources
