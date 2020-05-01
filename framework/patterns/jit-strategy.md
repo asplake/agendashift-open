@@ -1,3 +1,5 @@
+# Just-in-time (JIT) strategy deployment
+
 **Just-in-time (JIT) strategy deployment** is one of two key generative patterns in Agendashift, and is itself several patterns for the price of one. In particular, we bring together:
 
  1. *Just-in-time (JIT)*, in this context the antidote to “everything determined up front” and all the change-related dysfunctions commonly associated with that, and
