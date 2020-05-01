@@ -1,6 +1,6 @@
 # agendashift-open
 
-Markdown sources for the CC-BY-SA content on [agendashift.com], in particular (and in due course):
+Markdown sources for the CC-BY-SA content on [agendashift.com], in particular (and in due course) most pages found under:
 
 - [Agendashift as framework]
   - [Principles]
