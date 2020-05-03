@@ -11,10 +11,12 @@ The template’s vertical axis represents the outside-in journey from the custom
 
 ## The outside-in questions
 
-1.  **Customer**: What’s happening when we’re reaching the right customers, meeting their strategic needs?
-2.  **Organisation**: When we’re meeting those strategic needs, what kind of organisation are we?
-3.  **Product**: Through what products and services are we meeting those strategic needs?
-4.  **Platform**: When we’re that kind of organisation, meeting those strategic needs, delivering those products and services, what are the defining/critical capabilities that make it all possible?
-5.  **Team(s)**: When we’re achieving all of the above, what kind(s) of team(s) are we?
+> 1.  **Customer**: What’s happening when we’re reaching the right customers, meeting their strategic needs?
+> 2.  **Organisation**: When we’re meeting those strategic needs, what kind of organisation are we?
+> 3.  **Product**: Through what products and services are we meeting those strategic needs?
+> 4.  **Platform**: When we’re that kind of organisation, meeting those strategic needs, delivering those products and services, what are the defining/critical capabilities that make it all possible?
+> 5.  **Team(s)**: When we’re achieving all of the above, what kind(s) of team(s) are we?
+>
+> Source: *[Right to Left]*, chapter 5
 
-It’s worth stressing that ‘team(s)’ here means everyone – not just delivery teams!
+By design, the layers, the relationships between them, and the questions all leave room for some unpacking by the facilitator. It may be worth stressing that *team(s)* here means everyone – not just delivery teams!
