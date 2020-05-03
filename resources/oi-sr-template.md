@@ -8,7 +8,6 @@ The template’s vertical axis represents the outside-in journey from the custom
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
-
 ## The outside-in questions
 
 > 1.  **Customer**: What’s happening when we’re reaching the right customers, meeting their strategic needs?
@@ -19,4 +18,4 @@ The template’s vertical axis represents the outside-in journey from the custom
 >
 > Source: *[Right to Left]*, chapter 5
 
-By design, the layers, the relationships between them, and the questions all leave room for some unpacking by the facilitator. It may be worth stressing that *team(s)* here means everyone – not just delivery teams!
+By design, the questions are non-prescriptive, and make as few assumptions as possible. The way each question builds on its predecessors is intent to support participants in a process of model building. Also by design, the layers, the relationships between them, and their respective questions still leave room for some careful (non-prescriptive) unpacking by the facilitator.
