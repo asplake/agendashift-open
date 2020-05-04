@@ -4,7 +4,7 @@ The OI-SR template as described in chapter 5 of the 2019 book *[Right to Left: T
 
 This template is the inspiration to our [Outside-in strategy workshops]: the flagship [Wholehearted:OKR], the shorter *[Impact!]* workshop, and the generic [Agendashift Outside-in Strategy Review (OI-SR)]. Slideware for all three is included under the [Agendashift partner programme][become_a_partner].
 
-The template’s vertical axis represents the outside-in journey from the customer inwards, with a prompt in the form of a question for each layer (see below). Its horizontal axis represents the [Ideal, Obstacles, Outcomes (IdOO)] pattern, the outcomes organised into three time horizons in the manner of the [Plan on a Page] included with the resources for [15-minute FOTO].
+The template’s vertical axis represents the outside-in journey from the customer inwards, with a prompt in the form of a question for each of five layers (see below). Its horizontal axis represents the [Ideal, Obstacles, Outcomes (IdOO)] pattern, the outcomes organised into three time horizons in the manner of the [Plan on a Page] included with the resources for [15-minute FOTO].
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
@@ -18,4 +18,4 @@ The template’s vertical axis represents the outside-in journey from the custom
 >
 > Source: *[Right to Left]*, chapter 5
 
-By design, the questions are non-prescriptive, and make as few assumptions as possible. The way each question builds on its predecessors is intent to support participants in a process of model building. Also by design, the layers, the relationships between them, and their respective questions still leave room for some careful (non-prescriptive) unpacking by the facilitator.
+The questions are non-prescriptive by design, making as few assumptions as possible. Each question builds on its predecessors, supporting participants in a process of model building. Also by design, the layers, the relationships between them, and their respective questions leave room for some careful (non-prescriptive) unpacking by the facilitator.
