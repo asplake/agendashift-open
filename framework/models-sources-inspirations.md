@@ -11,31 +11,40 @@ Unless otherwise specified, ‘chapters’ below refer to the Agendashift book, 
 
 ## [Discovery] and [Exploration]
 
-See the references for chapters 1 & 2 together with the additional references included in the description of the pattern [Ideal, Obstacles, Outcomes (IdOO)]. Key influences and sources:
-
-  * Lean, Agile, and Lean-Agile: Lean and Agile get a chapter each in Right to Left; the book as a whole provides an outcome-oriented perspective on the Lean-Agile landscape
   * Clean Language, Solutions Focus, GROW, and Toyota Kata
-  * Kanban’s values model provides the primary organisation of the assessment; see [Kanban from the Inside] (2014)
+  * Lean, Agile, and Lean-Agile (Lean and Agile get a chapter each in *Right to Left*; the book as a whole provides an outcome-oriented perspective on the Lean-Agile landscape)
+  * Kanban’s values model provides the primary organisation of the assessment; see *[Kanban from the Inside]* (2014)
+
+See:
+
+  * References for chapters 1 & 2
+  * Additional references included in the description of the pattern [Ideal, Obstacles, Outcomes (IdOO)]
+
 
 ## [Mapping]
 
-See the references for chapter 3. Key influences and sources:
-
   * Cynefin, for the 4 Points contextualisation exercise (which we refer to by the pseudonym ‘Option Approach Mapping’ until we are ready to introduce the Cynefin model)
-  * Wardley Mapping (see Right to Left chapter 5, Outside In), the inspiration for Option Relationship Mapping (Karl Scotland and Liz Keogh)
+  * Wardley Mapping (see *Right to Left* chapter 5, Outside In), the inspiration for Option Relationship Mapping (Karl Scotland and Liz Keogh)
   * User Story Mapping, the inspiration for Pathway Mapping
   * Reverse STATIK, which provides a secondary organisation of the assessment and the ‘spine’ of the Pathway Map
   * X-Matrix and TASTE
 
-## [Elaboration] and [Operation]
+See the references for chapter 3.
 
-See the references for Agendashift chapters 4 & 5 and Right to Left chapters 4, 5 & 6 together with the additional references included in the description of the pattern [Just-in-time Strategy Deployment]. Key influences and sources:
+
+## [Elaboration] and [Operation]
 
   * PDCA/PDSA (Plan/Do/Check/Act), aka the Deming Cycle or Shewhart Cycle (our reservations about cycles notwithstanding)
   * Lean Startup, OKR, and 4DX
   * Servant Leadership (Greenleaf) and Leader-Leader (Marquet)
   * Sociocracy (aka Circular Organisation, Dynamic Governance)
   * Management Cybernetics – Viable System Model, Law of Requisite Variety, Redundancy of Potential Command etc
+
+See:
+  * References for *Agendashift* chapters 4 & 5
+  * References for *Right to Left* chapters 4, 5 & 6
+  * Additional references included in the description of the pattern [Just-in-time Strategy Deployment]
+
 
 ## Overall
 
