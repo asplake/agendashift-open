@@ -34,9 +34,13 @@ Your facilitator will be one of our most experienced partners, either Agendashif
 
 ## Workshop overview
 
+[![Framework overview image][framework.image]][framework]
+
 ### 1. [Discovery]: Describing where we'd like to get to
 
-Exploring organisational context, objectives, obstacles, and outcomes using these exercises:
+[![Discovery image][core_activities__discovery.image]][discovery]
+
+Exploring organisational context, objectives, obstacles, and outcomes using these Core exercises:
 
   * [Celebration-5W]
   * [True North] / obstacles
@@ -51,6 +55,8 @@ This structure provides a great example of the generative pattern [Ideal, Obstac
   * Applicability
 
 ### 2. [Exploration]: Prospecting for opportunities
+
+[![Exploration image][core_activities__exploration.image]][exploration]
 
 The opportunity to practice skills acquired in Discovery and to reinforce the IdOO pattern: 
 
@@ -67,6 +73,8 @@ Additional material/exercises may cover:
 
 ### 3. [Mapping]: Building a visual transformation plan
 
+[![Mapping image][core_activities__mapping.image]][mapping]
+
 The output of Exploration fed through a “string” of complementary mapping exercises:
 
   * Option Approach Mapping (not its real name)
@@ -80,6 +88,8 @@ Additional material/exercises may cover:
   * Strategy model reconciliations
 
 ### 4. [Elaboration]: Framing actions, testing our thinking & 5. [Operation]: Change as real work
+
+[![Elaboration image][core_activities__elaboration.image]][elaboration]
 
 The culture, practice, and organisation of [Just-in-time Strategy Deployment]:
 

@@ -30,11 +30,13 @@ Your facilitator will be one of our most experienced partners, either Agendashif
 
 ## Workshop overview
 
-Important note: Not every exercise can be covered in depth in a single day, and your facilitator will prioritise according to need. The Mapping exercises (session 3) are considered optional and may sacrificed in their entirety in favour of the [Changeban] game or to allow more time for Discovery. [Operation] \(chapter 5 of the book) is not typically included in 1-day workshops and it is omitted below.
+Important note: Not every exercise can be covered in depth in a single day, and your facilitator will prioritise according to need. The Mapping exercises (session 3) are considered optional and may sacrificed in their entirety in favour of the [Changeban] game or to allow more time for Discovery. [Operation] \(chapter 5 of the book) is not typically included in 1-day workshops except for aspects combined with Elaboration as described below.
 
 [![Framework overview image][framework.image]][framework]
 
 ### 1. [Discovery]: Describing where we'd like to get to
+
+[![Discovery image][core_activities__discovery.image]][discovery]
 
 Exploring organisational context, objectives, obstacles, and outcomes using these exercises:
 
@@ -47,6 +49,8 @@ Discovery provides a great example of the generative pattern [Ideal, Obstacles, 
 
 ### 2. [Exploration]: Prospecting for opportunities
 
+[![Exploration image][core_activities__exploration.image]][exploration]
+
 The opportunity to practice skills acquired in Discovery and to reinforce the IdOO pattern: 
 
   * Survey debrief / obstacles
@@ -56,19 +60,24 @@ Both to provide input to this session and to set the tone for the workshop overa
 
 ### 3. [Mapping]: Building a visual transformation plan
 
+[![Mapping image][core_activities__mapping.image]][mapping]
+
 Typically just one of these mapping exercises, organising the outputs of Exploration:
 
   * Option Approach Mapping (not its real name)
   * Option Relationship Mapping
   * Pathway Mapping
 
-### 4. [Elaboration]: Framing actions, testing our thinking
+### 4. [Elaboration]: Framing actions, testing our thinking & 5. [Operation]: Change as real work
 
-An introduction to hypothesis-based change:
+[![Elaboration image][core_activities__elaboration.image]][elaboration]
+
+An introduction to hypothesis-based change and other aspects of [Just-in-time Strategy Deployment]:
 
   * [Changeban] (I): A process of knowledge discovery (optional)
   * Options to experiments
   * [Experiment A3][experiment_a3]
+  * [Changeban] \(II): Double loop learning (optional)
 
 And to close:
 
