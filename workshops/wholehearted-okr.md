@@ -36,7 +36,7 @@ Sessions:
 2. **Outside-in strategy review (I)**
       * Layers: Customer, Organisation
       * [Ideal, Obstacles, Outcomes (Idoo)]
-      * [15-minute FOTO] (Lite)
+      * [15-minute FOTO] \(Lite)
 
 3. **Find your objectives**
       * [Plan on a Page]
@@ -50,7 +50,7 @@ Sessions:
       * Leading & lagging indicators; Balancing metrics; Scoreboard
       * The organisational view: Who identifies with what metric?
 
-5. [Changeban] (optional)
+5. [Changeban] \(optional – may be replaced by the [Agendashift delivery assessment][assessments])
       * Knowledge discovery process
       * Double loop learning
       * Sustaining cycles
@@ -58,7 +58,7 @@ Sessions:
 6. **Outside-in strategy review (II)**
       * Layers: Product, Platform, Team(s)
       * [Ideal, Obstacles, Outcomes (Idoo)]
-      * [15-minute FOTO] (Classic)
+      * [15-minute FOTO] \(Classic)
 
 7. **Organising for (mutual) accountability**
       * Cadence of accountability
