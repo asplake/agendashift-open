@@ -4,7 +4,7 @@
 
 Working collaboratively, create a transformation plan for your organisation based on a shared understanding of how things are, the opportunities for future development, and the outcomes essential to your success. Working on things that really matter to your organisation, practice some powerful techniques from Clean Language, Lean Startup, A3, Cynefin, and Kanban. It’s is a great way to scope, launch, or re-energise your Lean-Agile transformation.
 
-The [Agendashift delivery assessment](assessments) is typically set as pre-work for this workshop. In keeping with the assessment, the workshop is light on jargon and prescription and strong on inclusivity and honest reflection. Most of all, it is about opportunities, outcomes, alignment, and action.
+The [Agendashift delivery assessment][assessments] is typically set as pre-work for this workshop. In keeping with the assessment, the workshop is light on jargon and prescription and strong on inclusivity and honest reflection. Most of all, it is about opportunities, outcomes, alignment, and action.
 
 ## Who should attend?
 
