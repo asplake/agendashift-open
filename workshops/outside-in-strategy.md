@@ -2,27 +2,29 @@
 
 Our second family of workshops, as introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019):
 
-  * [Agendashift Outside-in Strategy Review (OI-SR)] – the essential strategy review workshop
-  * [Impact! Story, strategy, and outcomes for products and services] – Agendashift for product people
   * [Wholehearted:OKR – Bringing OKR to life with Agendashift] – understanding and implementing OKR
+  * [Impact! Story, strategy, and outcomes for products and services] – Agendashift for product people
+  * [Agendashift Outside-in Strategy Review (OI-SR)] – the essential strategy review workshop that inspired the other two
 
 All our workshops can be delivered online, typically over multiple days in sessions of up to two hours each.
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
+
 ## Choose your outside-in strategy workshop
 
-### 1. [Agendashift Outside-in Strategy Review (OI-SR)]
 
-A private 1-day strategy review, also the platform for the Impact! and Wholehearted:OKR workshops. [More...][outside_in_strategy_review]
+### 1. [Wholehearted:OKR – Bringing OKR to life with Agendashift]
+
+This 2-day / 8-session workshop uses the outside-in strategy review as a safe and effective way to approach Objectives and Key Results (OKR). Get the benefits, avoid the dysfunctions, and begin to see your organisation differently. [More...][wholehearted_okr]
 
 ### 2. [Impact! Story, strategy, and outcomes for products and services]
 
 A 1-day Agendashift workshop for product people. Different expressions of user need; managing your portfolio of experiments; thinking strategically about product evolution; options, hypotheses, and experiments. [More...][impact]
 
-### 3. [Wholehearted:OKR – Bringing OKR to life with Agendashift]
+### 3. [Agendashift Outside-in Strategy Review (OI-SR)]
 
-This 2-day / 8-session workshop uses the outside-in strategy review both to understand and to introduce Objectives and Key Results (OKR). Get the benefits, avoid the dysfunctions, and begin to see your organisation differently. [More...][wholehearted_okr]
+A private strategy review, typically as a 1-day workshop. It is also the platform on which the *Impact!* and Wholehearted:OKR workshops are built. [More...][outside_in_strategy_review]
 
 ## Public or private?
 
