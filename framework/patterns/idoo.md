@@ -57,7 +57,7 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
      + In IdOO, not seeking *remedies* at this stage, we are happy to gloss over them, replacing them with their respective outcomes (a strategy applicable in Clean Language coaching also). In Agendashift, potential solutions are considered later in the process, often loosely held as hypotheses and experiments. See Agendashift’s other key pattern, [Just-in-time Strategy Deployment].
      + *Outcomes* in the two models are the same.
       
- *  Min Basadur’s *Challenge Mapping* – broadening and narrowing with 
+ *  Challenge Mapping (Sid Parnes, Min Basadur) – broadening and narrowing with *Why* and *What*, responses captured in *How might we...?* (HMW) form:
      1. *“Why [is this an important challenge]?”* (and *“Why else?”*)
      2. *“What’s stopping us?”* (and *“What else?”*)
     
@@ -67,7 +67,9 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
      + [Challenge Mapping – a powerful method for finding the right focus][KANTOJÄRVI]  
     Piritta Kantojärvi (grapepeople.fi, 2017) 
      + [Challenge Mapping Part 1 - Challenge Map Basics][HARRIMAN]  
-    Jeanine Harriman (7leaguestudio.com, 2019) 
+    Jeanine Harriman (7leaguestudio.com, 2019)
+     + [Reappreciating: “How Might We?”][VANPATTER]  
+    GK VanPatter (linkedin.com, 2015)
       
  * From the Lean community (to which we also align), some resonances with Mike Rother’s *Toyota Kata* have been noted. Like the *katas*, IdOO could be described as a ‘routine’ to be practiced.
 
@@ -86,3 +88,4 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
 [BASADUR]: https://www.researchgate.net/publication/228542745_Reducing_Complexity_in_Conceptual_Thinking_Using_Challenge_Mapping
 [KANTOJÄRVI]: https://grapepeople.fi/en/blogikirjoitus/challenge-mapping/
 [HARRIMAN]: https://www.7leaguestudio.com/blog/2019/5/26/challenge-mapping-part-1-challenge-map-basics
+[VANPATTER]: https://www.linkedin.com/pulse/reappreciating-how-might-we-gk-vanpatter/
