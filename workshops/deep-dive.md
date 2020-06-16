@@ -43,16 +43,14 @@ Your facilitator will be one of our most experienced partners, either Agendashif
 Exploring organisational context, objectives, obstacles, and outcomes using these Core exercises:
 
   * [Celebration-5W]
-  * [True North] / obstacles
+  * [True North] / Ideal / Obstacles
   * [15-minute FOTO] \(Lite)
   * [Plan on a Page]
 
 This structure provides a great example of the generative pattern [Ideal, Obstacles, Outcomes (Idoo)]. Additional material/exercises may cover:
 
-  * Culture
-  * Values
-  * Systems Thinking
-  * Applicability
+  * Adaptive challenges
+  * X-Matrix / TASTE
 
 ### 2. [Exploration]: Prospecting for opportunities
 
@@ -60,16 +58,17 @@ This structure provides a great example of the generative pattern [Ideal, Obstac
 
 The opportunity to practice skills acquired in Discovery and to reinforce the IdOO pattern: 
 
-  * Survey debrief / obstacles
+  * [Agendashift delivery assessment](assessments) – either set as prework or done in the workshop
+  * Survey debrief
+  * Ideal / Obstacles
   * [15-minute FOTO] \(Classic)
-
-Both to provide input to this session and to set the tone for the workshop overall, the [Agendashift delivery assessment](assessments) is set in advance as prework.
 
 Additional material/exercises may cover:
 
-  * Mission, purpose, and identity
-  * Self-awareness and empathy
-  * Understanding and supporting the learning process
+  * Challenge Mapping
+  * Culture & Systems Thinking 
+  * Empathy & framing
+  * Applicability
 
 ### 3. [Mapping]: Building a visual transformation plan
 
@@ -94,12 +93,14 @@ Additional material/exercises may cover:
 The culture, practice, and organisation of [Just-in-time Strategy Deployment]:
 
   * [Changeban] \(I): A process of knowledge discovery
+  * [Changeban] \(II): Double loop learning
   * Options to experiments
   * [Experiment A3][experiment_a3]
-  * [Changeban] \(II): Double loop learning
 
 Optionally:
 
+  * Stories, situations of need, and hypotheses
+  * Challenge Mapping
   * The [Agendashift adaptability assessment][assessments]
   * Outside-in service delivery review (OI-SDR) and strategy review (OI-SR) meetings
 

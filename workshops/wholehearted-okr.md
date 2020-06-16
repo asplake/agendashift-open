@@ -20,61 +20,70 @@ Run this workshop within your organisation and you will be creating these opport
 
 ## Workshop overview
 
-Online, the workshop comprises 7 or 8 sessions of between 90 and 120 minutes each. In person, it’s a 2-day workshop, sessions 1-4 on day 1 and sessions 5-8 on day 2. 
+Online, the workshop comprises 8 sessions of between 90 and 120 minutes each. In person, it’s a 2-day workshop, sessions 1-4 on day 1 and sessions 5-8 on day 2. 
 
 [![Wholehearted:OKR image][wholehearted_okr.image]][wholehearted_okr]
 
 Sessions:
 
-
-1. **Context**
+  1. **Context**
       * Identifying the adaptive challenge
       * [Celebration-5W]
       * Introducing OKR, 4DX, and Agendashift
       * Stories as expressions of strategy, the meaning behind the metric
+      <br>
 
-2. **Outside-in strategy review (I)**
+  2. **Outside-in strategy review (I)**
       * Layers: Customer, Organisation
       * [Ideal, Obstacles, Outcomes (Idoo)]
       * [15-minute FOTO] \(Lite)
+      <br>
 
-3. **Find your objectives**
+  3. **Find your objectives**
       * [Plan on a Page]
-      * Option Approach Mapping (a pseudonym for Cynefin 4 Points) – optional
+      * Option Approach Mapping (a pseudonym for Cynefin 4 Points)
       * Option Relationship Mapping
       * Define your “Wildly important goal” (WIG)
+      <br>
 
-4. **Identify your measures of success**
-      * ODIM: Objective, Decision, Insight, Metric
-      * X-Matrix / TASTE (I): True North, Aspirations, Strategies, and Evidence
-      * Leading & lagging indicators; Balancing metrics; Scoreboard
-      * The organisational view: Who identifies with what metric?
-
-5. [Changeban] \(optional – may be replaced by the [Agendashift delivery assessment][assessments])
-      * Knowledge discovery process
-      * Double loop learning
-      * Sustaining cycles
-
-6. **Outside-in strategy review (II)**
+  4. **Outside-in strategy review (II)**
       * Layers: Product, Platform, Team(s)
       * [Ideal, Obstacles, Outcomes (Idoo)]
       * [15-minute FOTO] \(Classic)
+      <br>
 
-7. **Organising for (mutual) accountability**
+  5. [Changeban] \(optional – may be replaced by the [Agendashift delivery assessment][assessments])
+      * Knowledge discovery process
+      * Double loop learning
+      * Sustaining cycles
+      * [Just-in-time strategy deployment]
+      <br>
+
+  6. **Identify your measures of success**
+      * ODIM: Objective, Decision, Insight, Metric
+      * X-Matrix / TASTE: True North, Aspirations, Strategies, Tactics, Evidence
+      * Leading & lagging indicators; Balancing metrics; Scoreboard
+      * The organisational view: Who identifies with what metric?
+      <br>
+
+  7. **Options and experiments**
+      * Strategic prioritisation
+      * Generating and selecting ideas 
+      * [Experiment A3][experiment_a3]
+      <br>
+
+  8. **Organising for (mutual) accountability**
       * Cadence of accountability
       * Organising in circles
       * Outside-in service delivery review
+      <br>
 
-8. **Taking it forward**
-      * X-Matrix / TASTE (II): Tactics
-      * Two hypotheses; [Experiment A3][experiment_a3]
-      * Retrospective
 
 ## See also
 
   * [OKR](https://en.wikipedia.org/wiki/OKR) (en.wikipedia.org)
   * [There will be caveats: Warming cautiously to OKR](https://blog.agendashift.com/2019/09/04/there-will-be-caveats-warming-cautiously-to-okr/) (blog.agendashift.com)
-  * [Implementing your Outside-in Service Delivery Review (OI-SDR)] – the short training workshop corresponding to session 7 above
+  * [Implementing your Outside-in Service Delivery Review (OI-SDR)] – the short training workshop corresponding to session 8 above
   * The generative patterns [Ideal, Obstacles, Outcomes (Idoo)] and [Just-in-time Strategy Deployment]
 
 ## Credits
