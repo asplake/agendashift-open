@@ -1,15 +1,18 @@
-# Wholehearted:OKR – Bringing OKR to life with Agendashift
+# Wholehearted:OKR – Integrating strategy, development, and delivery
 
-Objectives and Key Results (OKR) is – to use the Wikipedia definition – a framework for defining and tracking objectives and their outcomes. Done well (*[wholeheartedly][wholehearted]*), it’s a great model for participatory strategy deployment. Done badly... well let’s just say that you don’t want to do it badly! OKR joins Lean and Agile as one of those things for which the way you introduce it matters at least as much as the thing itself, placing it very much within Agendashift territory.
+Objectives and Key Results (OKR) is – to use the Wikipedia definition – a framework for defining and tracking objectives and their outcomes. Done well (*[wholeheartedly][wholehearted]*), it’s a great model for participatory strategy deployment. Done badly... well let’s just say that you don’t want to do it badly!
 
-We know that the best outcomes aren’t just metrics or targets, but the happy endings to stories in which real needs are met. How they might be evidenced remains an important question, but a different one. With that clear separation in mind, Agendashift and OKR seem made for each other:
+OKR joins Lean and Agile as one of those things for which the way you introduce it matters at least as much as the thing itself, placing it very much within the scope of Agendashift, the wholehearted and outcome-oriented engagement model and open framework for participatory change. Happily, their respective aims coincide in the importance they attach to outcomes and to the integration of strategy, development, and delivery.
 
-  * **Agendashift**: an engagement model that is strategic in outlook and resolutely needs-based and outcome-oriented in both approach and technique
-  * **OKR**: an operating model for strategy deployment that emphasises alignment on outcomes and transparency around progress towards them
+This workshop addresses 5 key challenges with OKR:
 
-With this powerful combination you’ll not only avoid the potential pitfalls and dysfunctions of OKR but come away with fresh perspectives on participation, leadership, and organisation design. And if you’re already familiar with Agendashift, you’ll experience some exciting new tools for strategy and operation.
+  1. How to define objectives that are relevant, meaningful, compelling, and generative
+  2. How to measure key results with insightful metrics that will guide and stretch appropriately
+  3. How to deliver key results – finding the innovations
+  4. How to manage at multiple levels of detail
+  5. How to support and sustain the process
 
-Of all our workshops, Wholehearted:OKR delivers the most complete realisation of our [wholehearted] mission. It demonstrates how to create opportunities for:
+Of all our workshops, Wholehearted:OKR delivers the most complete realisation of Agendashift’s [wholehearted] mission. It demonstrates how to create opportunities for:
 
   * Authentic **engagement** on issues that matter
   * Meaningful **participation** across strategy, development, and delivery
@@ -20,11 +23,11 @@ Run this workshop within your organisation and you will be creating these opport
 
 ## Workshop overview
 
-Online, the workshop comprises 8 sessions of between 90 and 120 minutes each. In person, it’s a 2-day workshop, sessions 1-4 on day 1 and sessions 5-8 on day 2. 
+The Wholehearted:OKR workshop comprises 8 sessions of between 90 and 120 minutes each, typically delivered in 4 half days or 2 full days, online by default.
 
 [![Wholehearted:OKR image][wholehearted_okr.image]][wholehearted_okr]
 
-Sessions:
+### Sessions 1-4: Outside in strategy – customer and external environment first
 
   1. **Context**
       * Identifying the adaptive challenge
@@ -41,7 +44,7 @@ Sessions:
 
   3. **Find your objectives**
       * [Plan on a Page]
-      * Option Approach Mapping (a pseudonym for Cynefin 4 Points)
+      * Option Approach Mapping (not its real name)
       * Option Relationship Mapping
       * Define your “Wildly important goal” (WIG)
       <br>
@@ -51,6 +54,8 @@ Sessions:
       * [Ideal, Obstacles, Outcomes (Idoo)]
       * [15-minute FOTO] \(Classic)
       <br>
+
+### Sessions 5-8: Right to left and upside down – outcome-orientation and organisation design
 
   5. [Changeban] \(optional – may be replaced by the [Agendashift delivery assessment][assessments])
       * Knowledge discovery process
@@ -85,6 +90,7 @@ Sessions:
   * [There will be caveats: Warming cautiously to OKR](https://blog.agendashift.com/2019/09/04/there-will-be-caveats-warming-cautiously-to-okr/) (blog.agendashift.com)
   * [Implementing your Outside-in Service Delivery Review (OI-SDR)] – the short training workshop corresponding to session 8 above
   * The generative patterns [Ideal, Obstacles, Outcomes (Idoo)] and [Just-in-time Strategy Deployment]
+  * *[Right to Left: The digital leader’s guide to Lean and Agile]* \(2019, audioboook 2020)
 
 ## Credits
 
