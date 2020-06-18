@@ -60,7 +60,7 @@ To see this game used in conjunction with the Agendashift [True North], watch [E
   * Don’t skimp on printing; reading the questions off a screen doesn’t work nearly so well, and it’s good to give everyone something they can take away
   * Debrief afterwards:  
       * The experience, by role
-      * The results, organised perhaps into a Plan-on-a-Page, a template for which is included in the materials 
+      * The results, organised perhaps into a [Plan on a Page], a template for which is included in the 15-minute FOTO materials 
 
 Finally, do encourage participants interested in Clean Language to check out our [recommended reading][agendashift__recommended_reading] page as highlighed at the end of the deck.
 
