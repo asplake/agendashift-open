@@ -1,6 +1,6 @@
 # Core activities
 
-[![Framework overview image][framework.image]][framework]
+[![Framework overview image][core_activities.image]][core_activities]
 
 Agendashift’s core activities simultaneously describe:
 
