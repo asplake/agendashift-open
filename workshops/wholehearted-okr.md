@@ -89,7 +89,7 @@ The Wholehearted:OKR workshop comprises 8 sessions of between 90 and 120 minutes
   * [OKR](https://en.wikipedia.org/wiki/OKR) (en.wikipedia.org)
   * [There will be caveats: Warming cautiously to OKR](https://blog.agendashift.com/2019/09/04/there-will-be-caveats-warming-cautiously-to-okr/) (blog.agendashift.com)
   * [Implementing your Outside-in Service Delivery Review (OI-SDR)] – the short training workshop corresponding to session 8 above
-  * The generative patterns [Ideal, Obstacles, Outcomes (Idoo)] and [Just-in-time Strategy Deployment]
+  * The generative patterns [Ideal, Obstacles, Outcomes (Idoo)] and [Right-to-Left Strategy Deployment]
   * *[Right to Left: The digital leader’s guide to Lean and Agile]* \(2019, audioboook 2020)
 
 ## Credits

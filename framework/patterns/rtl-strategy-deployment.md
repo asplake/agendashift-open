@@ -1,15 +1,15 @@
-# Just-in-time (JIT) strategy deployment
+# Right-to-Left Strategy Deployment
 
-**Just-in-time (JIT) strategy deployment** is one of two key generative patterns in Agendashift, and is itself several patterns for the price of one. In particular, we bring together:
+**Right-to-Left Strategy Deployment** is one of two key generative patterns in Agendashift, and is itself several patterns for the price of one. In particular, we bring together:
 
- 1. *Just-in-time (JIT)*, in this context the antidote to “everything determined up front” and all the change-related dysfunctions commonly associated with that, and
+ 1. *Right-to-Left*: outcome-orientation (outcomes before solutions, ends before needs) combined with *just-in-time* (JIT) – not just *pulling* change-related work according to capacity but working backwards from the confirmation that the associated learning has happened, the organisation (through aspects of its design) sustaining the clear expectation that it will happen, and at multiple levels
  2. *Strategy deployment* as understood in Lean – often referred to by the Japanese term *hoshin kanri* – in which strategy is developed and refined collaboratively (with varying degrees of participation) over time and in response to the feedback generated through its implementation, solutions emerging from the people closest to the problem
 
 Process-wise (process being only part of the story), you can view Lean Startup, OKR, and 4DX both as instances of this pattern and as valuable sources of inspiration for anyone wishing to implement it from first principles. When looked at the right way, Scrum is a potential starting point too (see the Notes & References section below).
 
 Illustrating key components of the process, the image below uses the [iconography][icons] of the Agendashift [workshops], each icon representing a tool or exercise common to both workshop families:
 
-[![JIT strategy image][patterns__jit_strategy.image]][patterns__jit_strategy]
+[![JIT strategy image][patterns__rtl_strategy_deployment.image]][patterns__rtl_strategy_deployment]
 
 A “right to left” (outcomes-first) and *just-in-time* approach (not committing too early, not leaving it too late, working in chunks neither wastefully small nor indigestibly large) is a great way to transform – or at least reinterpret – a one-shot change process into one of continuous learning. Analagously to the practice of reviewing a kanban board right to left, here’s a right-to-left review of the work managed within the above representation:
 

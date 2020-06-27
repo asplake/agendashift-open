@@ -20,7 +20,7 @@ The 2018 book *[Agendashift: Outcome-oriented change and continuous transformati
 Whether as activities or sessions, the core activities can usefully be seen in turn as implementations of Agendashift’s [two key patterns][patterns], with the Mapping activity bridging the two:
 
   1. [Ideal, Obstacles, Outcomes (IdOO)] – the pattern repeated across Discovery and Exploration
-  2. [Just-in-time Strategy Deployment] – the pattern spanning Elaboration and Operation
+  2. [Right-to-Left Strategy Deployment] – the pattern spanning Elaboration and Operation
 
 The framework overview image (top) shows the core activities mapped both to the patterns and to the Agendashift [principles] \(numbered 1-5).
 

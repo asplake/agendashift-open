@@ -72,7 +72,7 @@ Typically just one of these mapping exercises, organising the outputs of Explora
 
 [![Elaboration image][core_activities__elaboration.image]][elaboration]
 
-An introduction to hypothesis-based change and other aspects of [Just-in-time Strategy Deployment]:
+An introduction to hypothesis-based change and other aspects of [Right-to-Left Strategy Deployment]:
 
   * [Changeban] (I): A process of knowledge discovery (optional)
   * Options to experiments

@@ -43,7 +43,7 @@ See the references for chapter 3.
 See:
   * References for *Agendashift* chapters 4 & 5
   * References for *Right to Left* chapters 4, 5 & 6
-  * Additional references included in the description of the pattern [Just-in-time Strategy Deployment]
+  * Additional references included in the description of the pattern [Right-to-Left Strategy Deployment]
 
 
 ## Overall

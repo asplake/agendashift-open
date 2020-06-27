@@ -1,13 +1,13 @@
 # Agendashift’s generative patterns
 
-[![Framework overview image][framework.image]][framework]
+[![Framework overview image][patterns.image]][patterns]
 
 The patterns:
 
   1. **[Ideal, Obstacles, and Outcomes (Idoo)][idoo]**
-  2. **[Just-in-time Strategy Deployment][patterns__jit_strategy]**
+  2. **[Right-to-Left Strategy Deployment][patterns__rtl_strategy_deployment]**
 
-Between these, one core activity – **[Mapping][mapping]** – is shared:
+At their intersection is the *agenda for change*, visualised through the core activity **[Mapping][mapping]**:
 
   * To organise the outcomes generated in the first and as a medium for its ongoing work
   * To help manage the learning process, reflecting priorities and other thinking as it evolves

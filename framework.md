@@ -8,7 +8,7 @@ Agendashift is primarily for agents of strategic change, and it’s designed to 
 
 We want to help you avoid yet another failed or utterly disappointing implementation, and we don’t pretend to be neutral. Outcome-orientation is not a neutral stance. Our commitment to participation and our opposition to imposition aren’t neutral either. If some of Agendashift’s principled approach to strategy and change rubs off in other areas too, we’d be delighted. Perhaps yours can be a [wholehearted] organisation too!
 
-The framework’s main elements are its principles, patterns, core activities (below). Running through those, a golden thread: [the language of outcomes].
+The framework’s main elements are its principles, patterns, and core activities (below). Running through those, a golden thread: [the language of outcomes].
 
 ## Distilled essence of Agendashift in five principles 
 
@@ -17,7 +17,7 @@ The framework’s main elements are its principles, patterns, core activities (b
 ## Two key generative patterns
 
   1. [Ideal, Obstacles, Outcomes (Idoo)]
-  2. [Just-in-time Strategy Deployment]  
+  2. [Right-to-Left Strategy Deployment]  
 
 Understand those two patterns, how they relate to each other, and how they challenge the status quo, and you’re a long way towards understanding both how Agendashift works and why it exists.
 

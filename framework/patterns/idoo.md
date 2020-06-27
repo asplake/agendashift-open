@@ -54,7 +54,7 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
       
  *  From the Clean Language community (to which the Agendashift community is closely aligned), the [PRO] \(cleanlanguage.co.uk) model – Problem, Remedy, Outcome – by Penny Tompkins and James Lawley. The ability to recognise the differences between the three elements of the model and to move conversations between them are certainly valuable skills. Comparing PRO and IdOO: 
      + *Problem* and *obstacle* are similar, differing perhaps more in tone than in substance
-     + In IdOO, not seeking *remedies* at this stage, we are happy to gloss over them, replacing them with their respective outcomes (a strategy applicable in Clean Language coaching also). In Agendashift, potential solutions are considered later in the process, often loosely held as hypotheses and experiments. See Agendashift’s other key pattern, [Just-in-time Strategy Deployment].
+     + In IdOO, not seeking *remedies* at this stage, we are happy to gloss over them, replacing them with their respective outcomes (a strategy applicable in Clean Language coaching also). In Agendashift, potential solutions are considered later in the process, often loosely held as hypotheses and experiments. See Agendashift’s other key pattern, [Right-to-Left Strategy Deployment].
      + *Outcomes* in the two models are the same.
       
  *  Challenge Mapping (Sid Parnes, Min Basadur) – broadening and narrowing with *Why* and *What*, responses captured in *How might we...?* (HMW) form:

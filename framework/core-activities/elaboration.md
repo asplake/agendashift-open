@@ -1,6 +1,6 @@
 # Elaboration
 
-**Elaboration**: Keeping the process of [Just-in-time Strategy Deployment] fed with ideas, taking options from [Mapping], framing them as hypotheses, and developing them as experiments.
+**Elaboration**: Keeping the process of [Right-to-Left Strategy Deployment] fed with ideas, taking options from [Mapping], framing them as hypotheses, and developing them as experiments.
 
 The [Core Agendashift workshop][core] includes the following Elaboration exercises (with their related models/inspirations):
 

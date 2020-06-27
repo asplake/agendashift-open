@@ -90,7 +90,7 @@ Additional material/exercises may cover:
 
 [![Elaboration image][core_activities__elaboration.image]][elaboration]
 
-The culture, practice, and organisation of [Just-in-time Strategy Deployment]:
+The culture, practice, and organisation of [Right-to-Left Strategy Deployment]:
 
   * [Changeban] \(I): A process of knowledge discovery
   * [Changeban] \(II): Double loop learning
