@@ -5,7 +5,7 @@
  1. *Right-to-Left*: outcome-orientation (outcomes before solutions, ends before means, meaning before metric, measure before method) combined with *just-in-time* (JIT) – not just *pulling* change-related work according to capacity but working backwards from the confirmation that the associated learning has happened, the organisation through aspects of its design sustaining the clear expectation that it will happen, and at multiple levels
  2. *Strategy deployment* as understood in Lean – often referred to by the Japanese term *hoshin kanri* – in which strategy is developed and refined collaboratively (with varying degrees of participation) over time and in response to the feedback generated through its implementation, solutions emerging from the people closest to the problem
 
-Process-wise (process being only part of the story), you can view Lean Startup, OKR, and 4DX both as instances of this pattern and as valuable sources of inspiration for anyone wishing to implement it from first principles. When looked at the right way, Scrum is a potential starting point too (see the Notes & References section below).
+Process-wise – process being only part of the story – you can view Lean Startup, OKR, and 4DX both as instances of this pattern and as valuable sources of inspiration for anyone wishing to implement it from first principles. When looked at the right way, Scrum is a potential starting point too (see the Notes & References section below).
 
 Illustrating key components of the process, the image below uses the [iconography][icons] of the Agendashift [workshops]. Each icon represents a tool or exercise common to both the transformation strategy and outside-in strategy workshop families:
 
@@ -52,7 +52,7 @@ Chapter 5 of *Right to Left* describes the design of two review meetings that ar
 
 The outside-in service delivery review (OI-SDR) provides a regular opportunity to ask the kinds of questions identified above, structured not just right-to-left but outside-in, ensuring i) that customer, organisation, and other external factors are given their proper weight, and ii) that a range of perspectives, voices, and metrics are juxtaposed in a sequence designed to bring misalignments to the surface. The short workshop [Implementing your Outside-in Service Delivery Review (OI-SDR)] walks prospective adopters of this meeting format through its design.
 
-The outside-in strategy review (OI-SR) takes the same customer-and-external-environment-first perspective in combination with the [IdOO] pattern and is a great generator of options for the Just-in-time (JIT) strategy deployment pattern. Both reviews are showcased in the [Wholehearted:OKR] workshop, which of all our workshops is the one that speaks to this pattern most completely.
+The outside-in strategy review (OI-SR) takes the same customer-and-external-environment-first perspective in combination with the [IdOO] pattern and is a great generator of options for the Right-Left (JIT) Strategy Deployment pattern. Both reviews are showcased in the [Wholehearted:OKR] workshop, which of all our workshops is the one that speaks to this pattern most completely.
 
 
 ## Notes & References
@@ -83,7 +83,7 @@ The 4DX book doesn’t mention OKR by name but we find it a highly practical gui
 
 ### Scrum
 
-Here we describe Scrum not conventionally as a left-to-right, backlog-driven process, but right to left, and as an implementation of the pattern *iterated self-organisation around goals*, a close cousin of just-in-time strategy deployment:
+Here we describe Scrum not conventionally as a left-to-right, backlog-driven process, but right to left, and as an implementation of the pattern *iterated self-organisation around goals*, a close cousin of Right-to-Left Strategy Deployment:
 
  
 >  * A Scrum Team moves towards its objectives goal by goal.
