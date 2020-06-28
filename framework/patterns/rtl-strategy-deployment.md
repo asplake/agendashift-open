@@ -2,14 +2,14 @@
 
 **Right-to-Left Strategy Deployment** is one of two key generative patterns in Agendashift, and is itself several patterns for the price of one. In particular, we bring together:
 
- 1. *Right-to-Left*: outcome-orientation (outcomes before solutions, ends before needs) combined with *just-in-time* (JIT) – not just *pulling* change-related work according to capacity but working backwards from the confirmation that the associated learning has happened, the organisation (through aspects of its design) sustaining the clear expectation that it will happen, and at multiple levels
+ 1. *Right-to-Left*: outcome-orientation (outcomes before solutions, ends before means, meaning before metric, measure before method) combined with *just-in-time* (JIT) – not just *pulling* change-related work according to capacity but working backwards from the confirmation that the associated learning has happened, the organisation through aspects of its design sustaining the clear expectation that it will happen, and at multiple levels
  2. *Strategy deployment* as understood in Lean – often referred to by the Japanese term *hoshin kanri* – in which strategy is developed and refined collaboratively (with varying degrees of participation) over time and in response to the feedback generated through its implementation, solutions emerging from the people closest to the problem
 
 Process-wise (process being only part of the story), you can view Lean Startup, OKR, and 4DX both as instances of this pattern and as valuable sources of inspiration for anyone wishing to implement it from first principles. When looked at the right way, Scrum is a potential starting point too (see the Notes & References section below).
 
-Illustrating key components of the process, the image below uses the [iconography][icons] of the Agendashift [workshops], each icon representing a tool or exercise common to both workshop families:
+Illustrating key components of the process, the image below uses the [iconography][icons] of the Agendashift [workshops]. Each icon represents a tool or exercise common to both the transformation strategy and outside-in strategy workshop families:
 
-[![JIT strategy image][patterns__rtl_strategy_deployment.image]][patterns__rtl_strategy_deployment]
+[![RtL strategy image][patterns__rtl_strategy_deployment.image]][patterns__rtl_strategy_deployment]
 
 A “right to left” (outcomes-first) and *just-in-time* approach (not committing too early, not leaving it too late, working in chunks neither wastefully small nor indigestibly large) is a great way to transform – or at least reinterpret – a one-shot change process into one of continuous learning. Analagously to the practice of reviewing a kanban board right to left, here’s a right-to-left review of the work managed within the above representation:
 
@@ -35,14 +35,17 @@ A “right to left” (outcomes-first) and *just-in-time* approach (not committi
 Not forgetting:
 
   * *Where do those options come from?*
+  * *How do we measure success?*
 
 which via [Mapping] takes us to our other key generative pattern: [Ideal, Obstacles, Outcomes (IdOO)].
 
-For the above questions to be asked systematically enough to be usefully generative over a sustained period – generating not just feedback but new options – other aspects of organisation design beyond process are also crucial. Strategy deployment is not just about merely delivering stuff and achieving the numbers; it must focus on determining that needs are being met in the manner to which the organisation aspires. None of this happens reliably without appropriate meeting designs, cadences (rhythms) and other triggers for decision making, collaboration, participation, and leadership, several of which may have implications for organisation structure too.
+For the above questions to be asked systematically enough to be usefully generative over a sustained period – generating not just feedback but new options – other aspects of organisation design beyond process are also crucial. Strategy deployment is not just about merely delivering stuff and achieving the numbers; it must focus on determining that needs are being met in the manner to which the organisation aspires, increasing its self-awareness in the process. None of this happens reliably without appropriate meeting designs, cadences (rhythms) and other triggers for decision making, collaboration, participation, and leadership, several of which may have implications for organisation structure too.
 
-These aspects are introduced in relation to strategy deployment in the last chapter of *[Agendashift]* and covered in much greater depth in the last three chapters of *[Right to Left]*. Relevant models referenced here include Sociocracy, Servant Leadership, and Leader-Leader, the last of those David L. Marquet’s Servant Leadership-flavoured approach to Mission Command.
+These organisational aspects are introduced in relation to strategy deployment in the last chapter of *[Agendashift]* and covered in much greater depth in the last three chapters of *[Right to Left]*, after which book this pattern is named. Relevant models referenced here include Sociocracy, Servant Leadership, and Leader-Leader, the last of those David L. Marquet’s Servant Leadership-flavoured approach to Mission Command.
 
-*Right to Left* describes the design of two review meetings that are highly relevant to this pattern:
+A *right-to-left* approach to strategy deployment means working backwards from deliberately-engineered moments of sense-making, meaning-making, and double-loop learning. Anticipating  and amplifying them in a process of knowledge discovery, we seek to maximise their value to all concerned.
+
+Chapter 5 of *Right to Left* describes the design of two review meetings that are highly relevant to this pattern:
 
  1. The outside-in service delivery review (OI-SDR)
  2. The outside-in strategy review (OI-SR)
@@ -58,6 +61,12 @@ References below are additional to those collected together on these pages:
 
  * [Recommended reading (Agendashift)] - adapted from *[Agendashift]* (2018)
  * [Recommended reading (Right to Left)] - adapted from *[Right to Left]* (2019)
+
+
+### Double Loop Learning
+
+ * *[Double Loop Learning in Organizations](https://hbr.org/1977/09/double-loop-learning-in-organizations)* (hbr.org), Chris Argyris (1977)
+ * *Discussing the Undiscussable: A Guide to Overcoming Defensive Routines in the Workplace*, William R. Noonan (2007)
 
 
 ### OKR and 4DX
