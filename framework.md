@@ -19,7 +19,7 @@ The framework’s main elements are its principles, patterns, and core activitie
   1. [Ideal, Obstacles, Outcomes (Idoo)]
   2. [Right-to-Left Strategy Deployment]  
 
-Understand those two patterns, how they relate to each other, and how they challenge the status quo, and you’re a long way towards understanding both how Agendashift works and why it exists.
+Understand those two patterns, [how they relate to each other][patterns], and how they challenge the status quo, and you’re a long way towards understanding both how Agendashift works and why it exists.
 
 [![Agendashift patterns image][patterns.image]][patterns]
 
