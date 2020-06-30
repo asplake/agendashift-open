@@ -2,7 +2,7 @@
 
 Our second family of workshops, as introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019):
 
-  * [Wholehearted:OKR – Bringing OKR to life with Agendashift] – understanding and implementing OKR
+  * [Wholehearted:OKR – Integrating strategy, development, and delivery] – understanding and implementing OKR
   * [Impact! Story, strategy, and outcomes for products and services] – Agendashift for product people
   * [Agendashift Outside-in Strategy Review (OI-SR)] – the essential strategy review workshop that inspired the other two
 
@@ -14,7 +14,7 @@ All our workshops can be delivered online, typically over multiple days in sessi
 ## Choose your outside-in strategy workshop
 
 
-### 1. [Wholehearted:OKR – Bringing OKR to life with Agendashift]
+### 1. [Wholehearted:OKR – Integrating strategy, development, and delivery]
 
 This 2-day / 8-session workshop uses the outside-in strategy review as a safe and effective way to approach Objectives and Key Results (OKR). Get the benefits, avoid the dysfunctions, and begin to see your organisation differently. [More...][wholehearted_okr]
 

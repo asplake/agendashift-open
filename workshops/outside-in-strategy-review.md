@@ -19,7 +19,7 @@ Workshop results may be summarised using the [Outside-in Strategy Review (OI-SR)
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
-This workshop is available for private use only. The longer workshop [Wholehearted:OKR – Bringing OKR to life with Agendashift] is available both publicly and privately, and incorporates all the material of the Outside-in Strategy Review. The shorter [Impact! Story, Strategy, and Outcomes for Products and Services] concentrates on the Customer layer (and indirectly the Organisation and Product layers). Our several [Transformation Strategy Workshops] can be seen as focusing mainly on the Platform and Team(s) layers.
+This workshop is available for private use only. The longer workshop [Wholehearted:OKR – Integrating strategy, development, and delivery] is available both publicly and privately, and incorporates all the material of the Outside-in Strategy Review. The shorter [Impact! Story, Strategy, and Outcomes for Products and Services] concentrates on the Customer layer (and indirectly the Organisation and Product layers). Our several [Transformation Strategy Workshops] can be seen as focusing mainly on the Platform and Team(s) layers.
 
 ## Related
 

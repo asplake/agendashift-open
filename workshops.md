@@ -41,7 +41,7 @@ A private 1-day strategy review, also the platform for the Impact! and Wholehear
 
 A 1-day Agendashift workshop for product people. Different expressions of user need; managing your portfolio of experiments; thinking strategically about product evolution; options, hypotheses, and experiments. [More...][impact]
 
-### 3. [Wholehearted:OKR – Bringing OKR to life with Agendashift]
+### 3. [Wholehearted:OKR – Integrating strategy, development, and delivery]
 
 This 2-day / 8-session workshop uses the outside-in strategy review both to understand and to introduce Objectives and Key Results (OKR). Get the benefits, avoid the dysfunctions, and begin to see your organisation differently. [More...][wholehearted_okr]
 
