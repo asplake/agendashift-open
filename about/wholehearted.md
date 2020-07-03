@@ -18,15 +18,15 @@ Being both needs-based and outcome-oriented means that we don’t just settle fo
 
 **Where we’re coming from**: Agendashift’s founders, partners, collaborators, supporters, and champions work at the exciting intersection of Lean-Agile, Strategy, and Organisation Development, are growing into that space, or see its potential for their organisations.
 
-[![Working at the intersection image][models_sources_inspirations.image]][models_sources_inspirations]
+[![Working at the intersection image](/static/images/wholehearted/wholehearted-16x10-2020-07-03-intersection.png)][models_sources_inspirations]
 
 **What sets us apart**: a fundamentally needs-based and outcome-oriented approach to strategy, development (change), and delivery that helps people to engage meaningfully on the issues that matter, to pay explicit and continuous attention to needs and outcomes, and to energise, inform, and sustain this process through participation.
 
-[![Image: Things on the right ahead of the things on the left](/static/images/wholehearted/right-to-left-16x10-2020-01-02.png)][wholehearted]
+[![Image: Things on the right ahead of the things on the left](/static/images/wholehearted/wholehearted-16x10-2020-07-03-right-to-left.png)][wholehearted]
 
 **The challenge that motivates us**: When any of these crucial elements go missing, the organisation exposes itself to the familiar risks of solution-driven and process-centric approaches: mediocrity, disappointment, and (most damaging of all) disengagement. Ironically, many change management approaches exacerbate the very problems they are called upon to solve; no wonder then that so many change initiatives fail. Isn’t it time we left those tired old ways behind?
 
-[![Image: The failings of solution-first approaches](/static/images/wholehearted/solution-driven-16x10-2020-01-02.png)][wholehearted]
+[![Image: The failings of solution-first approaches](/static/images/wholehearted/wholehearted-16x10-2020-07-03-adaptive-challenge.png)][wholehearted]
 
 **Let’s do this thing together!** Inviting us to work with your organisation is a small act of leadership and staff engagement that generates plenty more of both in return. What a great investment!
 
