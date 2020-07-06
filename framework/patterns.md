@@ -14,7 +14,7 @@ At their intersection is the *agenda for change*, kept visible through the core 
 
 Within and across these two key generative patterns can be found many other reusable patterns and principles. These are particularly important:
 
-  * *[Right to Left]*: ends before means, outcomes before solutions, and the two MBMs – meaning before metric and measure before method (2MBM)
+  * *[Right to Left]*: Ends before means, outcomes before solutions, and the two MBMs – meaning before metric and measure before method ([2MBM])
   * Participation – both generally and across boundaries
   * Generative conversations
   * Just in time (JIT)
