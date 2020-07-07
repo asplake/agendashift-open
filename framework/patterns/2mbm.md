@@ -1,6 +1,6 @@
 # 2MBM
 
-Two patterns for the price of one: Meaning for Metric, Measure before Method – type 1 and type 2 MBM respectively, collectively 2MBM.
+Two patterns for the price of one: Meaning before Metric, Measure before Method. Type 1 and type 2 MBM respectively, collectively 2MBM.
 
 [![2MBM image][patterns__2mbm.image]][2mbm]
 
