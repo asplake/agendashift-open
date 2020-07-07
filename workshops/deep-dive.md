@@ -96,6 +96,7 @@ The culture, practice, and organisation of [Right-to-Left Strategy Deployment]:
   * [Changeban] \(II): Double loop learning
   * Options to experiments
   * [Experiment A3][experiment_a3]
+  * The [2MBM] pattern: Meaning before Metric, Measure before Method
 
 Optionally:
 
