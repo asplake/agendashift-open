@@ -27,7 +27,7 @@ The principles first saw the light of day in the 2017 blog post [Agendashift in 
 >     * Decisions are made quickly by the right people
 >     * Transparency and support are both given and received, with responsibility shared both for impact and for how results are achieved
 
-Also in chapter 5, echoing in the inclusive and outcome-oriented style of the {{site.about.assessments.link("Agendashift assessment")}} prompts:
+Also in chapter 5, echoing in the inclusive and outcome-oriented style of the [Agendashift assessment][assessments] prompts:
  
 > 1. **Start with needs** – We understand why the organisation should continue to exist, discovering and rediscovering the needs of customers, employees, and the stakeholders that it must serve
 > 2. **Agree on outcomes** – We maximise potential and minimise friction by deferring and delegating the ‘how’; by habit and deliberate practice we focus first on the intent of any change

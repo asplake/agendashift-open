@@ -24,3 +24,9 @@ From the blog post [#2MBM: Meaning before Metric, Measure before Method](https:/
 
 ¹ We cover the 2MBM pattern most explicitly in the [Deep Dive] and [Wholehearted:OKR] workshops  
 ² See the [IdOO] pattern
+
+Blog posts tagged [#2mbm](https://blog.agendashift.com/tag/2mbm/) (blog.agendashift.com):
+
+  * [#2MBM: Meaning before Metric, Measure before Method](https://blog.agendashift.com/2020/07/02/2mbm-meaning-before-metric-measure-before-method/)
+  * [#2MBM: After strategy and ideation, operation](https://blog.agendashift.com/2020/07/08/2mbm-after-strategy-and-ideation-operation/) 
+
