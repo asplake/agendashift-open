@@ -13,6 +13,8 @@ The words picked out in bold suggest some values:
   * Attention to **needs** and **outcomes** – not just hollow promises of future benefits but a fundamental reorientation, a paradigm shift, and a change of language
   * **Leadership** at every level – facilitating all of the above, responsible and accountable for it
 
+Contrast those values with the engagement-destroying inauthenticity and imposition of traditional change management. In the context of cultural and other adaptive challenges its record of failure is so extensive that good motives no longer excuse the harm. It’s why a clean break was necessary, and we’re proud to be in the vanguard of a new category, the *[engagement model]*.
+
 Many and varied are the obstacles that we have helped organisations think and work their way beyond, but these are common:
 
   * Strategy, objectives, accountabilities, or performance inadequately defined or understood</li>
