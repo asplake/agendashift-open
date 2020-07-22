@@ -2,9 +2,9 @@
 
 Our third family of workshops, all 100% online, and comprising:
 
-### 1. [Learning the Language of Outcomes]
+### 1. [IdOO! Leading with Outcomes]
 
-The first of our workshops to go 100% online, this covers the Discovery and Exploration sessions of the Core workshop and features both the Lite and Classic editions of our Clean Language-inspired coaching game [15-minute FOTO]. [More...][learning_the_language_of_outcomes]
+The first of our workshops to go 100% online, the *IdOO!* workshop covers the Discovery and Exploration sessions of the Core workshop and features both the Lite and Classic editions of our Clean Language-inspired coaching game [15-minute FOTO]. [More...][idoo_leading_with_outcomes]
 
 ### 2. [Strategic Mapping with Outcomes]
 
