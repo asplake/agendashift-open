@@ -1,13 +1,13 @@
 # IdOO! Leading with Outcomes
 
-This 2-session workshop is about leading with outcomes in the context of cultural and other adaptive challenges:
+In this workshop we cover both meanings of *“Leading with outcomes”*:
 
-  * What it means to be outcome-oriented – putting outcomes first and avoiding the dysfunctions of solution-driven change management
-  * How to speak the language of outcomes, an essential skill for leaders at all levels
+  1. Putting outcomes ahead of solutions, being outcome-oriented
+  2. The language of outcomes as an essential leadership discipline
 
-At the heart of the *IdOO!* workshop is the [IdOO pattern][idoo], short for Ideal, Obstacles, Outcomes. Demonstrating its power for generative and strategic conversations we use this pattern twice, implementing it with a range of different tools over the two sessions.
+At the heart of the *IdOO!* workshop is the [IdOO pattern][idoo], short for Ideal, Obstacles, Outcomes. Demonstrating its power and flexibility we use this pattern twice, implementing it with a range of different tools over the two sessions.
 
-Our short training workshops [Strategic Mapping with Outcomes] and *[Probe!]* are ideal followups to this workshop.
+Whatever your role, if you‘re in the business of encouraging innovation, change, and transformation – helping people meaningfully in change-related work, then this workshop is for you. Our short training workshops [Strategic Mapping with Outcomes] and *[Probe!]* are ideal followups.
 
 ## Workshop overview
 
@@ -44,7 +44,7 @@ Engagement models have just three jobs to do:
   2. To help the organisation engage its staff meaningfully in change-related work
   3. To keep the organisation’s parts engaged with each other as they change
 
-If any of those jobs are yours too, use an approach that encourages engagement, not destroys it! 
+If any of those jobs are yours too,  you’d be wise to use an approach that encourages engagement, not destroys it! 
 
 ### Outcomes all the way down
 
