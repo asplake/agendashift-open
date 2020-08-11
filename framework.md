@@ -16,7 +16,7 @@ The framework’s main elements are its principles, patterns, and core activitie
 
 ## Two key generative patterns
 
-  1. [Ideal, Obstacles, Outcomes (Idoo)]
+  1. [Ideal, Obstacles, Outcomes (IdOO)]
   2. [Right-to-Left Strategy Deployment]  
 
 Understand those two patterns, [how they relate to each other][patterns], and how they challenge the status quo, and you’re a long way towards understanding both how Agendashift works and why it exists.

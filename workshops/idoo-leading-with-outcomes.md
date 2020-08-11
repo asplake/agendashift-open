@@ -1,13 +1,13 @@
 # IdOO! Leading with Outcomes
 
-In this hands-on workshop we practice both meanings of *“Leading with outcomes”*:
+In this hands-on workshop of two 2-hour sessions we practice both meanings of *“Leading with outcomes”*:
 
   1. Putting outcomes before solutions, being *outcome-oriented*
   2. The language of outcomes as an essential leadership discipline
 
 Also known as the *IdOO!* workshop, at its heart is the [IdOO pattern][idoo], short for Ideal, Obstacles, Outcomes. Demonstrating its power and flexibility we use this pattern twice, implementing it with a range of different tools over the two sessions.
 
-Whatever your role, if you‘re in the business of encouraging innovation, change, and transformation – helping people engage meaningfully in change-related work – then this workshop is for you. Our short training workshops [Strategic Mapping with Outcomes] and *[Probe!]* are ideal followups.
+Whatever your role, if you’re in the business of encouraging innovation, change, and transformation – helping people engage meaningfully in change-related work – then this workshop is for you. Our short training workshops [Strategic Mapping with Outcomes] and *[Probe!]* are ideal followups.
 
 Among this workshop’s sources and inspirations are Clean Language, Solutions Focus, Challenge Mapping, Lean, and Agile. The [Agendashift™ delivery assessment](assessments) is included in the second session.
 
@@ -30,7 +30,7 @@ Establishing organisational context and high-level objectives, obstacles, and ou
 
 [![Exploration image][core_activities__exploration.image]][exploration]
 
-Reinforcing the IdOO pattern as we dig into the detail:
+Prospecting for opportunities, practicing skills acquired in the first session and reinforcing the IdOO pattern as we dig into the detail:
 
   * Survey debrief / obstacles – completing the [Agendashift delivery assessment](assessments) and working with the results
   * [15-minute FOTO] \(Classic) – a more challenging version this time round

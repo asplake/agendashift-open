@@ -47,7 +47,7 @@ Exploring organisational context, objectives, obstacles, and outcomes using thes
   * [15-minute FOTO] \(Lite)
   * [Plan on a Page]
 
-This structure provides a great example of the generative pattern [Ideal, Obstacles, Outcomes (Idoo)]. Additional material/exercises may cover:
+This structure provides a great example of the generative pattern [Ideal, Obstacles, Outcomes (IdOO)]. Additional material/exercises may cover:
 
   * Adaptive challenges
   * X-Matrix / TASTE

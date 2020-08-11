@@ -52,7 +52,7 @@ These shorter workshops address specific skills and techniques of coaching and o
 
 Our third family of workshops, all 100% online, and comprising:
 
-### 1. [IdOO! Leading with Outcomes]
+### 1. [Leading with Outcomes – IdOO!][idoo_leading_with_outcomes]
 
 The first of our workshops to go 100% online, this covers the Discovery and Exploration sessions of the Core workshop and features both the Lite and Classic editions of our Clean Language-inspired coaching game [15-minute FOTO]. [More...][idoo_leading_with_outcomes]
 
@@ -60,7 +60,7 @@ The first of our workshops to go 100% online, this covers the Discovery and Expl
 
 This short workshop is centered on the ‘string’ of three mapping exercises from the Mapping activity of the Deep Dive workshop. [More...][strategic_mapping_with_outcomes]
 
-### 3. [Probe! Stories, Hypotheses, Challenges, and Experiments]
+### 3. [Probe! Stories, Hypotheses, Challenges, and Experiments][probe]
 
 The *Probe!* workshop is a standalone and enhanced version of the Core workshop’s Elaboration activity, featuring the Agendashift Experiment A3 Template together with some exciting new material from the *Impact!* and Wholehearted:OKR workshops. [More...][probe]
 

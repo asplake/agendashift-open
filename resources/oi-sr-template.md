@@ -8,7 +8,7 @@ The template’s vertical axis represents the outside-in journey from the custom
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
-## The outside-in questions
+## The 5 layers and the outside-in questions
 
 > 1.  **Customer**: What’s happening when we’re reaching the right customers, meeting their strategic needs?
 > 2.  **Organisation**: When we’re meeting those strategic needs, what kind of organisation are we?

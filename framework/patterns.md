@@ -4,7 +4,7 @@
 
 The patterns:
 
-  1. **[Ideal, Obstacles, and Outcomes (Idoo)][idoo]**
+  1. **[Ideal, Obstacles, and Outcomes (IdOO)][idoo]**
   2. **[Right-to-Left Strategy Deployment][patterns__rtl_strategy_deployment]**
 
 At their intersection is the *agenda for change*, kept visible through the core activity **[Mapping][mapping]** and through regular reviews of strategy and delivery. Mapping and related techniques of visual management help to: 

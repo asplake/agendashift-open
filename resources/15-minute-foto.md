@@ -35,7 +35,7 @@ To see this game used in conjunction with the Agendashift [True North], watch [E
 ## Facilitation tips
 
   * Watch the video, familiarise yourself with the deck (even if you don’t intend to use it) and study these:  
-      * The generative pattern [Ideal, Obstacles, Outcomes (Idoo)] and the Core Activities [Discovery] and [Exploration]
+      * The generative pattern [Ideal, Obstacles, Outcomes (IdOO)] and the Core Activities [Discovery] and [Exploration]
       * For further context, the pattern [Right-to-Left Strategy Deployment] and the Core Activities [Mapping] and [Elaboration]
   * Consider attending a [Learning the Language of Outcomes] training workshop or one of our longer strategy workshops
   * Table groups of 3-5 people. 4 is ideal
