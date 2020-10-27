@@ -4,6 +4,9 @@
 
 The [Core Agendashift workshop][core] includes the following Elaboration exercises (with their related models/inspirations):
 
+  * Choose an outcome
+  * The Challenge Mapping questions (Challenge Mapping)
+  * Measures of success ([2MBM])
   * Option generation and prioritisation
   * Hypothesis (Lean Startup)
   * Experiment A3 (Lean)
@@ -11,7 +14,6 @@ The [Core Agendashift workshop][core] includes the following Elaboration exercis
 Longer workshops may add these and/or other related exercises/topics in combination with topics from [Operation]:
 
   * [Changeban] \(Lean Startup, Kanban, Argyris)
-  * Experimentation and organisational learning (Schein)
   * Stories, requirements, and authentic situations of need (User stories, Job stories)
 
 [![Elaboration/Operation image][core_activities__elaboration.image]][elaboration]
