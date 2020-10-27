@@ -52,3 +52,7 @@ We are glad also to note strong correspondences between Agendashift and recent w
 
   * *The Dynamics of Generative Change*, Gervase R. Bushe (BMI Publishing, 2020)
   * *Dialogic Organization Development: The Theory and Practice of Transformational Change*, Gervase R. Bushe and Robert J. Marshak (Berrett-Koehler Publishers, 2015)
+
+## And finally
+
+  * [How I choose my models](https://blog.agendashift.com/2020/10/27/how-i-choose-my-models/) (blog.agendashift.com, October 2020)
