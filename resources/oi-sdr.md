@@ -12,9 +12,9 @@ As discussed in the Agendashift 2nd edition due early 2021, under the heading **
     * Subject to our minimum _[rule of three][rule_of_three]_
   * **Metrics, sources**
     * Leading vs lagging
-    * See also OKR, 4DX (“act on lead measures”)
+    * See also OKR, 4DX (_“act on lead measures”_)
   * **Who’s invited? (II): Thinking in circles**
-    * See also Sociocracy and the rule of three page above
+    * See also Sociocracy and the _rule of three_ page above
   * **Who’s invited? (III): Leadership**
     * Authenticity, psychological safety
     * Specific opportunities for leadership as identified by models:
@@ -22,7 +22,7 @@ As discussed in the Agendashift 2nd edition due early 2021, under the heading **
       * Host Leadership
       * Viable System Model (VSM)
 
-The deck (to which you can subscribe below) includes a slide with the above text. In the coming weeks we’ll expand these points in further slides.
+The deck (to which you can subscribe below) includes a slide with the above text. Over the coming weeks we’ll expand these points in further slides.
 
 ## Related
 
