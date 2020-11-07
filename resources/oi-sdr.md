@@ -1,6 +1,6 @@
-# OI-SR Outside-in Strategy Review (OI-SR) template
+# Outside-in Service Delivery Review (OI-SDR)
 
-The Outside-in Service Delivery Review as introduced in the 2018 1st edition of *[Agendashift]*, described in chapter 5 of the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]* and futher developed in the *Agendashift* 2nd edition due early 2021. It is released under a Creative Commons CC-BY-SA license.
+Agendashift’s Outside-in Service Delivery Review gives a strategic and Lean-Agile twist to the classic operational review meeting. Based on experience in the UK government digital space, it was introduced in the 2018 1st edition of *[Agendashift]*, described in chapter 5 of the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]* and futher developed in the *Agendashift* 2nd edition due early 2021. It is released under a Creative Commons CC-BY-SA license.
 
 [![OI-SDR slide][oi_sdr.image]][oi-sdr]
 
@@ -12,7 +12,7 @@ As discussed in the Agendashift 2nd edition due early 2021, under the heading **
     * Subject to our minimum _[rule of three][rule_of_three]_
   * **Metrics, sources**
     * Leading vs lagging
-    * See also OKR, 4DX (_“act on lead measures”_)
+    * See also OKR, 4DX (_“act on lead measures”_), [2MBM]
   * **Who’s invited? (II): Thinking in circles**
     * See also Sociocracy and the _rule of three_ page above
   * **Who’s invited? (III): Leadership**
@@ -29,6 +29,7 @@ The deck (to which you can subscribe below) includes a slide with the above text
    * The [Outside-in Strategy Review (OI-SR) template][oi_sr_template]
    * The [Right-to-Left Strategy Deployment] pattern
    * [Rule of Three]
+   * [2MBM]
    * [Changeban]
    * [The Agendashift Experiment A3 template]
    * Workshops:

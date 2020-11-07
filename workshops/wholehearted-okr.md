@@ -81,7 +81,7 @@ The Wholehearted:OKR workshop comprises 8 sessions of between 90 and 120 minutes
   8. **Organising for (mutual) accountability**
       * Cadence of accountability
       * Organising in circles
-      * Outside-in service delivery review
+      * [Outside-in Service Delivery Review (OI-SDR)]
       <br>
 
 

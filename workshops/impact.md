@@ -47,6 +47,5 @@ Four sessions:
 
 ### Epilogue
 
-  * Outside-in service delivery review (OI-SDR)
-  * Organising in circles (Sociocracy)
+  * [Outside-in Service Delivery Review (OI-SDR)]
   * [Our mission: Wholehearted]

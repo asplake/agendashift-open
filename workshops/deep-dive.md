@@ -103,6 +103,6 @@ Optionally:
   * Stories, situations of need, and hypotheses
   * Challenge Mapping
   * The [Agendashift adaptability assessment][assessments]
-  * Outside-in service delivery review (OI-SDR) and strategy review (OI-SR) meetings
+  * [Outside-in Service Delivery Review (OI-SDR)] and Outside-in Strategy Review (OI-SR) meetings
 
 See also the separate workshop [Implementing your Outside-in Service Delivery Review (OI-SDR)] and the family of [outside-in strategy workshops].
