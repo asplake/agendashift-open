@@ -3,7 +3,7 @@
 The Agendashift Outside-in Strategy Review (OI-SR) is described in the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]*. It comprises five sessions:
 
   1. **Agree on a timeframe** – with [Celebration-5W]
-  2. **The outside-in questions** – capturing objectives for each of the following five layers in turn, sequenced to expose internal contradictions when looking back up/out in the customer direction:
+  2. AS given in the [Outside-in Strategy Review (OI-SR) template], the **outside-in questions** – capturing objectives for each of the following five layers in turn, sequenced to expose internal contradictions when looking back up/out in the customer direction:
 
        1. Customer
        2. Organisation
@@ -15,9 +15,9 @@ The Agendashift Outside-in Strategy Review (OI-SR) is described in the 2019 book
   4. **Structure a plan**
   5. **Developing options** – with [the Agendashift Experiment A3 template]
 
-Workshop results may be summarised using the [Outside-in Strategy Review (OI-SR) template]:
+Workshop materials are available via the [partner programme][become_a_partner].
 
-[![OI-SR template image][oi_sr_template.image]][oi_sr_template]
+[![Outside-in Strategy Review][outside_in_strategy_review.image]][become_a_partner]
 
 This workshop is available for private use only. The longer workshop [Wholehearted:OKR – Integrating strategy, development, and delivery] is available both publicly and privately, and incorporates all the material of the Outside-in Strategy Review. The shorter [Impact! Story, Strategy, and Outcomes for Products and Services] concentrates on the Customer layer (and indirectly the Organisation and Product layers). Our several [Transformation Strategy Workshops] can be seen as focusing mainly on the Platform and Team(s) layers.
 
