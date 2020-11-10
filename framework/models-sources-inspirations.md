@@ -7,7 +7,7 @@ We’re working at the exciting intersection of strategy, organisation developme
 
 Unless otherwise specified, ‘chapters’ below refer to the Agendashift book, *[Agendashift: Outcome-oriented change and continuous transformation]* (2018); its [recommended reading page][agendashift__recommended_reading] is organised by chapter.
 
-*[Right to Left: The digital leader’s guide to Lean and Agile]* (2019) has its own [recommended reading page][right_to_left__recommended_reading]  also.
+*[Right to Left: The digital leader’s guide to Lean and Agile]* (2019, audiobook 2020) has its own [recommended reading page][right_to_left__recommended_reading] also.
 
 ## [Discovery] and [Exploration]
 
