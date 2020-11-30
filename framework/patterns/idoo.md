@@ -32,9 +32,10 @@ Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks th
 
   1. *When this is working at its ideal best for you, what’s that like?*
   2. *And when that's happening, what new stories could you tell?*
-  3. *What stops that? What gets in the way?*
-  4. *What would you like to have happen?*
-  5. *Then what happens?* (And perhaps again: *Then what happens?*)
+  3. *And in those stories, whose needs would you be meeting?*
+  4. *What stops that? What gets in the way?*
+  5. *What would you like to have happen?*
+  6. *Then what happens?* (And perhaps again: *Then what happens?*)
 
 ## Facilitating IdOO
 
