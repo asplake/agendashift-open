@@ -26,7 +26,7 @@ Private workshops allow greater emphasis on producing of artefacts of real value
   * Understanding of the integration of techniques and concepts from Lean-Agile, Kanban, Clean Language, Cynefin, Lean Startup, and A3
   * Awareness of the power of feedback loops in organisational behaviour and evolution
 
-Participants in most public workshops (and private workshops by arrangement) will receive a print copy of the book *[Agendashift: Outcome-oriented change and continuous transformation]* (2018).
+Participants in most public workshops (and private workshops by arrangement) will receive a print copy of the book *[Agendashift: Outcome-oriented change and continuous transformation]* (2nd edition 2021).
 
 ## Workshop facilitation
 

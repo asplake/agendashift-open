@@ -78,13 +78,8 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
 
 ## Further reading
 
-  * *[Agendashift: Outcome-oriented change and continuous transformation]* , Mike Burrows (2018)
-  * *[Right to Left: The digital leader’s guide to Lean and Agile]*, Mike Burrows (2019)
-
-  Note that the IdOO mnemonic appears in neither book, though the pattern is easily recognised in both. A planned second edition of *Agendashift* will rectify that. References from *Agendashift* are collected here (references above are additional to those):
-
-  *  [Recommended reading (Agendashift)] – selected references
-
+  * *[Agendashift: Outcome-oriented change and continuous transformation]* , Mike Burrows (2nd edition 2021)
+  * *[Right to Left: The digital leader’s guide to Lean and Agile]*, Mike Burrows (2019, audiobook 2020)
 
 [GROW]: https://en.wikipedia.org/wiki/GROW_model
 [PRO]: https://www.cleanlanguage.co.uk/PRO.html

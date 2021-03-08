@@ -5,7 +5,7 @@ We’re working at the exciting intersection of strategy, organisation developme
 
 [![Working at the intersection image][models_sources_inspirations.image]][models_sources_inspirations]
 
-Unless otherwise specified, ‘chapters’ below refer to the Agendashift book, *[Agendashift: Outcome-oriented change and continuous transformation]* (2018); its [recommended reading page][agendashift__recommended_reading] is organised by chapter.
+Unless otherwise specified, ‘chapters’ below refer to the Agendashift book, *[Agendashift: Outcome-oriented change and continuous transformation]* (2nd edition 2021); its [recommended reading page][agendashift_2nd_edition__recommended_reading] is organised by chapter.
 
 *[Right to Left: The digital leader’s guide to Lean and Agile]* (2019, audiobook 2020) has its own [recommended reading page][right_to_left__recommended_reading] also.
 
@@ -41,7 +41,7 @@ See the references for chapter 3.
   * Management Cybernetics – Viable System Model, Law of Requisite Variety, Redundancy of Potential Command etc
 
 See:
-  * References for *Agendashift* chapters 4 & 5
+  * References for *Agendashift* chapters 4, 5 & 6
   * References for *Right to Left* chapters 4, 5 & 6
   * Additional references included in the description of the pattern [Right-to-Left Strategy Deployment]
 

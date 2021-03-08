@@ -16,7 +16,7 @@ The *Probe!* workshop is a standalone and enhanced version of the Core workshopâ
 
 ### 4. [Implementing your Outside-in Service Delivery Review (OI-SDR)]
 
-A private workshop that will take you well on your way to implementing your own outside-in service delivery review (OI-SDR) as introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019). [More...][outside_in_service_delivery_review]
+A private workshop that will take you well on your way to implementing your own outside-in service delivery review (OI-SDR) as introduced in *[Agendashift]* (2nd edition 2021) and developed in *[Right to Left]* (2019, audiobook 2020). [More...][outside_in_service_delivery_review]
 
 ## Public or private?
 

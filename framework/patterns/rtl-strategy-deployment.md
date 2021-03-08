@@ -59,8 +59,8 @@ The outside-in strategy review (OI-SR) takes the same customer-and-external-envi
 
 References below are additional to those collected together on these pages:
 
- * [Recommended reading (Agendashift)] - adapted from *[Agendashift]* (2018)
- * [Recommended reading (Right to Left)] - adapted from *[Right to Left]* (2019)
+ * [Recommended reading (Agendashift 2nd edition)] - adapted from *[Agendashift]* (2nd edition 2021)
+ * [Recommended reading (Right to Left)] - adapted from *[Right to Left]* (2019, audiobook 2020)
 
 
 ### Double Loop Learning

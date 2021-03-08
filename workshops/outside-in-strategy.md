@@ -1,6 +1,6 @@
 # Outside-in Strategy Workshops
 
-Our second family of workshops, as introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019):
+Our second family of workshops, as introduced in *[Agendashift]* (2nd edition 2021) and developed in *[Right to Left]* (2019, audiobook 2020):
 
   * [Wholehearted:OKR – Integrating strategy, development, and delivery] – understanding and implementing OKR
   * [Impact! Story, strategy, and outcomes for products and services] – Agendashift for product people

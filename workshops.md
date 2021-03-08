@@ -10,7 +10,7 @@ All our workshops can be delivered online, typically over multiple days in sessi
 
 ## [Transformation Strategy Workshops]
 
-The classic Agendashift workshops, following the design described in the 2018 book *[Agendashift: Outcome-oriented change and continuous transformation]*. They can be delivered online, typically over multiple days in sessions of up to two hours each. All include the [Agendashift delivery assessment as prework][assessments], input to the [Exploration] session.
+The classic Agendashift workshops, following the design described in the book *[Agendashift: Outcome-oriented change and continuous transformation]* (2nd edition 2021). They can be delivered online, typically over multiple days in sessions of up to two hours each. All include the [Agendashift delivery assessment as prework][assessments], input to the [Exploration] session.
 
 [![Framework overview image][framework.image]][framework]
 
@@ -29,7 +29,7 @@ Expanding on the Core workshop, the 2-day Deep Dive workshop is aimed at coaches
 
 ## Outside-in Strategy Workshops
 
-In the approach introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019), three variations on the theme of the outside-in strategy review.
+In the approach introduced in *[Agendashift]* and developed in *[Right to Left]* (2019, audiobook 2020), three variations on the theme of the outside-in strategy review.
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
@@ -66,7 +66,7 @@ The *Probe!* workshop is a standalone and enhanced version of the Core workshopâ
 
 ### 4. [Implementing your Outside-in Service Delivery Review (OI-SDR)]
 
-A private workshop that will take you well on your way to implementing your own [Outside-in Service Delivery Review (OI-SDR)] as introduced in *[Agendashift]* (2018) and developed in *[Right to Left]* (2019). [More...][outside_in_service_delivery_review]
+A private workshop that will take you well on your way to implementing your own [Outside-in Service Delivery Review (OI-SDR)] as introduced in *[Agendashift]* and developed in *[Right to Left]*. [More...][outside_in_service_delivery_review]
 
 
 ## Public or private?

@@ -16,7 +16,7 @@ As text:
 >  5. Organise for leverage and learning
      
  
-The principles first saw the light of day in the 2017 blog post [Agendashift in 5 principles]. In chapter 5 of *[Agendashift]* (2018) they are expanded as follows:
+The principles first saw the light of day in the 2017 blog post [Agendashift in 5 principles]. In chapter 5 of the 2018 1st edition of *[Agendashift][agendashift_1st_edition]* they are expanded as follows:
 
 >  1. **Start with needs** – get a sense of what’s needed, based on an appreciation of where we are now and our ambitions for where we’d like to get to
 >  2. **Agree on outcomes** – explore a landscape of obstacles and outcomes, using authentic agreement on outcomes as the basis for change
@@ -35,7 +35,7 @@ Also in chapter 5, echoing in the inclusive and outcome-oriented style of the [A
 > 4. **Manage options, testing assumptions** – We make progress by generating and prioritising options, surfacing their assumptions, testing them through experiments, and incorporating learning
 > 5. **Organise for clarity, speed, and mutual accountability** – Our organisation is designed and operated such that decisions about delivery or change can be made quickly and safely, close to where the real action takes place
 
-The wording of two principles has changed a little since the book’s publication (the updates to be reflected in a planned 2nd edition):
+The wording of two principles has changed a little since the book’s publication (the updates to be reflected in an appendix in the 2021 2nd edition):
 
 * Principle #1 *Start with needs* (not uncoincidentally top of the list of service design principles for UK Government Digital Services) becomes *Start – and finish – with needs*, a reminder that we’re not done until we can demonstrate that needs are being met; see also our helpfully provocative [Definition of done][done]
 * Principle #5 has been shortened to *Organise for leverage and learning* – this trips better off the tongue, and *mutual accountability*, though a great concept, was a little too obscure here (its inspiration, Marquet’s *Turn the Ship Around!* remains a highly recommended reference)
