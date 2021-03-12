@@ -10,9 +10,9 @@ The first of our workshops to go 100% online, the *IdOO!* workshop covers the Di
 
 This short workshop is centered on the ‘string’ of three mapping exercises from the Mapping activity of the Deep Dive workshop. [More...][strategic_mapping_with_outcomes]
 
-### 3. [Probe! Stories, Hypotheses, Challenges, and Experiments]
+### 3. [Probe! Outcomes, Stories, and Experiments][probe]
 
-The *Probe!* workshop is a standalone and enhanced version of the Core workshop’s Elaboration activity, featuring the Agendashift Experiment A3 Template together with some exciting new material from the *Impact!* and Wholehearted:OKR workshops. [More...][probe]
+Described by one participant as *”A3 for the 2020’s"*, the *Probe!* workshop is a standalone and enhanced version of the our strategy workshops’ [Elaboration] activity, as covered in chapter 4 of the Agendashift [book][agendashift]. It features one of our most popular resources, the [Agendashift Experiment A3 Template][experiment_a3], and exciting new material from the *[Impact!]* and [Wholehearted:OKR] workshops.
 
 ### 4. [Implementing your Outside-in Service Delivery Review (OI-SDR)]
 
