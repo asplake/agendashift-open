@@ -30,9 +30,9 @@ Our various outside-in strategy review workshops employ the IdOO pattern either 
 
 Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks the questions below in sequence, one slide at a time (the True North statement fulfulling the role of *generative image*, evoking a wide range of possible responses both spoken and unspoken):
 
-  1. *When this is working at its ideal best for you, what’s that like?*
-  2. *And when that's happening, what new stories could you tell?*
-  3. *And in those stories, whose needs would you be meeting?*
+  1. *When this is working at its ideal best for us, what’s that like?*
+  2. *And when that's happening, what new stories could we tell?*
+  3. *And in those stories, whose needs would we be meeting?*
   4. *What stops that? What gets in the way?*
   5. *What would you like to have happen?*
   6. *Then what happens?* (And perhaps again: *Then what happens?*)
