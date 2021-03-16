@@ -51,6 +51,8 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
 
 ## See also:
 
+ * Our [cheat sheet]
+
  *  The classic coaching model [GROW] \(en.wikipedia.org) – Goal, Reality, Options, Way forward. Because we are developing strategy, IdOO departs from that highly recommended model in two key respects: 
      1. We seek to generate a landscape of outcomes – potentially a fractal landscape with further obstacles and their corresponding outcomes embedded within it – covering a range of timescales
      2. Rather than seeking to help the client towards their next actionable step, we go on to organise outcomes to reveal lines of sight between near-term opportunities, key results, medium-term objectives, and long-term goals; by their construction we can reasonably expect to find coherence here

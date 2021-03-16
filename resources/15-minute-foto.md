@@ -11,7 +11,7 @@ As well as an objective, 15-minute FOTO has rules, two of them – it is a game
 
 There are no wrong answers, but the intent of the questioning should be to elicit outcomes in a spirit of curiosity, not to fish for solutions (suggesting solutions isn’t possible within the rules). In view of the game’s objective, questioners – ’coaches‘ – are advised not to waste time digging into obstacles; however some quick clarification may be helpful.
 
-**Read more**: chapters 1 & 2 of *[Agendashift: Outcome-oriented change and continuous transformation][agendashift_2nd_edition]* (2nd edition 2021).
+**Read more**: chapters 1 & 2 of *[Agendashift: Outcome-oriented change and continuous transformation][agendashift_2nd_edition]* (2nd edition 2021). See also our [cheat sheet].
 
 ¹ See the blog post [Aka the ‘And when X…’ game](https://blog.agendashift.com/2020/02/17/aka-the-and-when-x-game/)  
 ² See the blog series [The language of outcomes]

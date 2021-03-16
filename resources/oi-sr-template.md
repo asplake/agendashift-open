@@ -1,6 +1,6 @@
 # OI-SR Outside-in Strategy Review (OI-SR) template
 
-The OI-SR template as described in chapter 5 of the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]* and released under a Creative Commons CC-BY-SA license.
+The OI-SR template as described in chapter 5 of the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]*, put in context in the 2021 2nd edition of *[Agendashift: Outcome-oriented change and continuous transformation]*, and featured in our [cheat sheet][leading_with_outcomes_cheat_sheet]. It released under a Creative Commons CC-BY-SA license; translations and other adaptations welcome!
 
 This template is the inspiration to our [Outside-in strategy workshops]: the flagship [Wholehearted:OKR], the shorter *[Impact!]* workshop, and the generic [Agendashift Outside-in Strategy Review (OI-SR)]. Slideware for all three is included under the [Agendashift partner programme][become_a_partner].
 
