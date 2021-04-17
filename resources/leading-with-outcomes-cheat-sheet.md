@@ -2,7 +2,8 @@
 
 A cheat sheet for:
 
-  * The [Leading with Outcomes][idoo_leading_with_outcomes] workshop
+  * The [Leading with Outcomes (LwO)](/lwo) self-paced training
+  * The [Coaching with Outcomes (CwO)] workshop
   * The first half of the [Core][core], [Deep Dive][deep_dive], and [Outside-in strategy][outside_in_strategy] workshops
   * The first two chapters of the book, *[Agendashift: Outcome-oriented change and continuous transformation][agendashift_2nd_edition]* (2nd edition 2021).
 

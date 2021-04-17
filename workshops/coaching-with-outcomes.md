@@ -1,11 +1,13 @@
-# IdOO! Leading with Outcomes
+# Coaching with Outcomes (CwO)
 
-In this hands-on workshop of two 2-hour sessions we practice both meanings of *“Leading with outcomes”*:
+**Update**: Until April 2021 this interactive workshop was previously known as Leading with Outcomes (LwO). That name now belongs to the corresponding (and complementary) self-paced training.
+
+In this hands-on workshop of two 2-hour sessions we practice two related things:
 
   1. Putting outcomes before solutions, being *outcome-oriented*
-  2. The language of outcomes as an essential leadership discipline
+  2. The language of outcomes as an essential discipline for managers, coaches, facilitators, and consultants
 
-Also known as the *IdOO!* workshop, at its heart is the [IdOO pattern][idoo], short for Ideal, Obstacles, Outcomes. Demonstrating its power and flexibility we use this pattern twice, implementing it with a range of different tools over the two sessions.
+At this workshop’s heart is the [IdOO pattern][idoo], short for Ideal, Obstacles, Outcomes. Demonstrating its power and flexibility we use this pattern twice, implementing it with a range of different tools over the two sessions.
 
 Whatever your role, if you’re in the business of encouraging innovation, change, and transformation – helping people engage meaningfully in change-related work – then this workshop is for you. Our short training workshops [Strategic Mapping with Outcomes] and *[Probe!]* are ideal followups.
 
