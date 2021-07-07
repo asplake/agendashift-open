@@ -2,7 +2,7 @@
 
 [![IdOO image][patterns__idoo.image]][idoo]
 
-**IdOO** – a mnemonic for **Ideal**, **Obstacles**, **Outcomes** – is one of two key generative patterns in Agendashift. We use it at different times and with different combinations of tools and prompts, but still the underlying pattern easily recognised.
+**IdOO** (“I do”) – a mnemonic for **Ideal**, **Obstacles**, **Outcomes** – is one of two key generative patterns in Agendashift. We use the IdOO pattern at different times and with different combinations of tools and prompts, but still the underlying pattern easily recognised.
 
 ## Motivation
 
