@@ -15,7 +15,7 @@ Authentic agreement on meaningful outcomes is the most powerful enabler for stra
 
 Our transformation strategy workshops [Core], [Applied], and [Deep Dive] use the IdOO pattern twice:
 
-  * In [Discovery], reflecting on our provided [True North] statement, in a business context established by preceding exercises, and the resulting outcomes organised in a [Plan on a Page]
+  * In [Discovery], reflecting on our provided [True North] statement, in a business context established by preceding exercises ([Celebration-5W] in particular), and the resulting outcomes organised in a [Plan on a Page]
   * In [Exploration], reflecting on prompts prioritised from our 42-prompt [assessment][assessments], context already established in Discovery, and outcomes then organised through [Mapping]
 
 Our various outside-in strategy review workshops employ the IdOO pattern either once or twice (see the [OI-SR template] for detail on the ‘layers’ below):
