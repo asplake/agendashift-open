@@ -16,7 +16,6 @@ Longer workshops may add these and/or other related exercises/topics in combinat
   * [Changeban] \(Lean Startup, Kanban, Argyris)
   * Stories, requirements, and authentic situations of need (User stories, Job stories)
 
-
 ¹See the [Ideal, Obstacles, Outcomes (IdOO) pattern][idoo] page for some Challenge Mapping references  
 ²[15% Solutions: Discover and Focus on What Each Person Has the Freedom and Resources to Do Now](https://www.liberatingstructures.com/7-15-solutions/) (liberatingstructures.com), Henri Lipmanowicz and Keith McCandless inspired by Prof. Gareth Morgan
 
