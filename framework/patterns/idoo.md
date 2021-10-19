@@ -61,6 +61,8 @@ IdOO is not always linear. For example, although 15-minute FOTO is mainly about 
 
  * The *miracle question* (Solution Focus): See [en.wikipedia.org/wiki/Solution-focused_brief_therapy#The_miracle_question](https://en.wikipedia.org/wiki/Solution-focused_brief_therapy#The_miracle_question) and *The Solution Focus*, Paul Z. Jackson & Mark McKergow (Nicholas Brealey International, 2011)
 
+ * Further to the above, Practice Outcomes, aka [5% Outcomes, 15% Outcomes](https://blog.agendashift.com/2021/10/08/get-unstuck-and-get-going-starting-small-with-5-and-15-outcomes/) (blog.agendashift.com), an optional warmup to 15-minute FOTO
+
  *  Challenge Mapping (Sid Parnes, Min Basadur) – broadening and narrowing with *Why* and *What*, responses captured in *How might we...?* (HMW) form:
      +  *“Why [is this an important challenge]?”*, *“Why else?”*, and contextualised forms such as *Why is solving this important?*, *Why is achieving this important?*
      +  *“What’s stopping us?”*, *“What else?”*, etc

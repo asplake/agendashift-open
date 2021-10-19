@@ -26,7 +26,7 @@ It is released under a Creative Commons CC-BY-SA license. Subscribe via the butt
  ## Omitted for reasons of space:
 
  * Our trusty context-setting kickoff exercise [Celebration-5W]
- * Practice Outcomes, an optional warmup to 15-minute FOTO based on a version of SFBT‘s [miracle question](https://en.wikipedia.org/wiki/Solution-focused_brief_therapy#The_miracle_question) (en.wikipedia.org); see also *The Solutions Focus*, Jackson & McKergow
+ * Practice Outcomes, aka [5% Outcomes, 15% Outcomes](https://blog.agendashift.com/2021/10/08/get-unstuck-and-get-going-starting-small-with-5-and-15-outcomes/) (blog.agendashift.com), an optional warmup to 15-minute FOTO based on a version of SFBT‘s [miracle question](https://en.wikipedia.org/wiki/Solution-focused_brief_therapy#The_miracle_question) (en.wikipedia.org); see also *The Solutions Focus*, Jackson & McKergow
  * The Charitable Explanation, a deep and empathy-building look at obstacles – Systems Thinking meets Schein's culture model; see *Organizational Culture and Leadership*, Edgar H. Schein
 
 For more information and additional references see *[Agendashift: Outcome-oriented change and continuous transformation][agendashift_2nd_edition]* (2nd edition 2021) and its [recommended reading][agendashift_2nd_edition__recommended_reading] page.
