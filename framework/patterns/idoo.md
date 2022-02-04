@@ -13,7 +13,7 @@ Authentic agreement on meaningful outcomes is the most powerful enabler for stra
 
 ## Specific instances of the pattern
 
-Our transformation strategy workshops [Core], [Applied], and [Deep Dive] use the IdOO pattern twice:
+Our transformation strategy workshops [Core], [Applied], and [Deep Dive] use the IdOO pattern at least twice:
 
   * In [Discovery], reflecting on our provided [True North] statement, in a business context established by preceding exercises ([Celebration-5W] in particular), and the resulting outcomes organised in a [Plan on a Page]
   * In [Exploration], reflecting on prompts prioritised from our 42-prompt [assessment][assessments], context already established in Discovery, and outcomes then organised through [Mapping]
@@ -22,6 +22,8 @@ Our various outside-in strategy review workshops employ the IdOO pattern either 
 
   * In the *[Impact!]* workshop, for the Customer layer (only)
   * In the [Wholehearted:OKR] workshop, initially for the Customer and Organisation layers and later the Product, Platform, and Teams(s) layers
+
+For both kinds of strategy workshop, the IdOO pattern is often there (though less explictly) in the ideation process, starting this time with the Ideal foe a specific outcome.
 
 Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks the questions below in sequence, one slide at a time (the True North statement fulfulling the role of *generative image*, evoking a wide range of possible responses both spoken and unspoken):
 
@@ -34,7 +36,7 @@ Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks th
 
 ## Facilitating IdOO
 
-**Ideal**: This is the result of the reflection (written down or otherwise) and should not be confused with the *generative image*, *challenge*, or other prompt – provided or harvested – used by the facilitator in the reflection’s setup. Furthermore, the reflection always comes after establishing some kind of business context.
+**Ideal**: This is the result of the reflection (written down or otherwise) and should not be confused with the *generative image*, *challenge*, or other prompt – provided or harvested – used by the facilitator in the reflection’s setup.
 
 **Obstacles**: Their elicitation is usually straightforward – from experience we have learned to use neutral but direct questioning – often as simple as *“What stops that?”*. In certain circumstances however it may be appropriate to employ a more elaborate obstacle identification exercise. Regardless of they are generated, it’s important afterwards to check that obstacles identify real issues and don’t suffer from certain unhelpful framings (see [Good Obstacle, Bad Obstacle][gobo]).
 
@@ -43,6 +45,14 @@ Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks th
 IdOO is not always linear. For example, although 15-minute FOTO is mainly about exploring and developing a landscape of outcomes, further obstacles may be identified in that process, and from those, more outcomes. It could be said therefore that the process builds a fractal landscape of both obstacles and outcomes. And at any point, a new ideal can be established and the process started afresh.
 
 [![IdOO image][patterns__idoo.image2]][idoo]
+
+## The strategy 'wrapper'
+
+Two patterns for the price of one! For best results:
+
+ 1. Establish context – see for example [Celebration-5W]
+ 2. Have the conversation(s) – IdOO-based or otherwise
+ 3. Organise the strategy – [Mapping], OKR, etc, avoiding the temptation to stop at 'next steps' and losing most of what was discussed.
 
 ## See also:
 
