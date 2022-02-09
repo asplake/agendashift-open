@@ -1,5 +1,7 @@
 # Workshops
 
+This page describes workshops assembled from Agendashift's exercises and patterns, ready-made and tested facilitation materials made available via the [partner programme][become_a_partner]. For our integrated curriculum of self-paced study and workshop-based training, visit [Leading with Outcomes](https://academy.agendashift.com/leading-with-outcomes) (academy.agendashift.com). 
+
 One *[wholehearted]* engagement model, three workshop families:
 
   * [Transformation Strategy Workshops] – hands-on with the Agendashift engagement model
@@ -71,7 +73,7 @@ A private workshop that will take you well on your way to implementing your own 
 
 ## Public or private?
 
-Except as indicated above, all workshops are offered both publicly and privately. Public workshops – see our [Events calendar][events] – are focussed on approach and skills; private workshops can be targetted directely at a range of organisational needs:
+Public training is offered and certified by (or in association with) the [Agendashift Academy](https://academy.agendashift.com). Private workshops can be targetted directely at a range of organisational needs:
 
   * To launch, refocus, or re-energise continuous transformation in your organisation
   * To enhance your organisation's internal coaching and change management capability
