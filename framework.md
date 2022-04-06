@@ -17,6 +17,11 @@ As text:
 >
 > <sup>1</sup><i>What if we put agreement on outcomes before solutions?</i>
 
+Our prefered starting point (of several) is authentic agreement on meaningful outcomes – the right people in the room, outcomes articulated in the participants’ own words and organised coherently into strategy.
+
+To keep outcomes in the foreground, we teach some straightforward ways to improve existing feedback opportunities or to add them where they are lacking.
+
+As for where to do strategy, the opportunities are typically plentiful and easy to recognise. Where it’s needed, explicitly inside-out and/or outside-in forms of strategy may be appropriate, the former beginning with the internal experience and capability of the scope in question, the latter starting with its external relationships.
 
 ## Generative patterns
 
