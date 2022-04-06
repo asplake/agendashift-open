@@ -5,7 +5,7 @@ These pages describe Agendashift – the *[wholehearted]* engagement model – a
 
 ## Strategies
 
-Strategies for getting better at strategy – meta strategies and leadership principles:
+Leadership principles and meta strategies – strategies for getting better at the kinds of strategy that tend to drive transformation:
 
 [![Framework image][framework.image]][framework]
 
@@ -20,11 +20,11 @@ As text:
 
 ## Generative patterns
 
+Supporting the strategies, three [generative patterns][patterns] – non-prescriptive, repeatable, and recognisable structures into which a range of conversational and organisational tools can easily be inserted:
+
   1. [Ideal, Obstacles, Outcomes (IdOO)]
   2. [Meaning before metric, measure before method (2MBM)][2MBM]
   3. [Right-to-Left Strategy Deployment]  
-
-Understand those patterns, [how they relate to each other][patterns], and how they challenge the status quo, and you’re a long way towards understanding both how Agendashift works and why it exists.
 
 [![Agendashift patterns image][patterns.image]][patterns]
 
