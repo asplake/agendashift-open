@@ -1,8 +1,8 @@
 # 15-minute FOTO
 
-*15-minute FOTO* – aka the *And when X... game*¹ – is our Creative Commons-licensed and Clean Language-inspired coaching game that’s not only for coaches – everyone gets a turn! Consistently, it’s a highlight of our workshops: it’s fun and surprisingly practical, generating not just insights but a good quantity of relevant outputs. Above all, it’s the main tool by which we generate outcomes – and outcomes are the main currency in which we deal².
+*15-minute FOTO* – aka the *And when X... game*¹ – is our Creative Commons-licensed and Clean Language-inspired coaching game that’s not only for coaches – everyone gets a turn! Consistently, it’s a highlight of our workshops: it’s fun and surprisingly practical, generating not just insights but a good quantity of relevant outputs. It’s the main tool by which we generate outcomes – outcomes that can then be organised strategically.
 
-FOTO stands for “From Obstacles to Outcomes”, and the game’s objective is to generate as any outcomes as you can in the allotted time – 15 minutes for a table group working together in the Lite edition, or 3-4 minutes per rotation (plus some changeover time) through the Classic edition’s roles of client, coach, scribe, and (depending on numbers) observer.
+FOTO stands for “From Obstacles to Outcomes”, and the game’s objective is to generate as any outcomes as you can in the allotted time – 15 minutes for a table group working together in the Lite edition, or 3-4 minutes per rotation (plus some changeover time) through the Classic edition’s roles of client, coach, and host.
 
 As well as an objective, 15-minute FOTO has rules, two of them – it is a game after all! They make it a *generative process*:
 
@@ -13,19 +13,26 @@ There are no wrong answers, but the intent of the questioning should be to elici
 
 **Read more**: chapters 1 & 2 of *[Agendashift: Outcome-oriented change and continuous transformation][agendashift_2nd_edition]* (2nd edition 2021). See also our [cheat sheet].
 
-¹ See the blog post [Aka the ‘And when X…’ game](https://blog.agendashift.com/2020/02/17/aka-the-and-when-x-game/)  
-² See the blog series [The language of outcomes]
-
 
 ## The 15-minute FOTO cue card
 
 
 [![The 15-minute FOTO cue card][15_minute_foto.image]][15-minute foto]
 
-If playing in person (as opposed to online), we recommend that the cue cards are printed on A5-sized card, one per person. It is difficult to hold face-to-face conversation when looking at screen! Accordingly, the facilitation deck includes some slides to be shown or hidden for online and offline use.
+If playing in person (as opposed to online), we strongly recommend that the cue cards are printed on A5-sized card, one per person. It is difficult to hold face-to-face conversation when looking at screen! Accordingly, the facilitation deck includes some slides to be shown or hidden for online and offline use.
 
 If you’d like access to Dropbox with all the original files for the cue cards, the facilitator’s deck, and the latest translations (versions of the cue card are available in German, Italian, and Swedish), just ask via the button below.
 
+
+## 15-minute FOTO at the Agendashift Academy
+
+Within the [Agendashift Academy](https://academy.agendashift.com)'s core curriculum [Leading with Outcomes](https://academy.agendashift.com/#block-1649323755021_0), 15-minute FOTO features in the following modules:
+
+  * [Inside-out Strategy: Fit for maximum impact](https://academy.agendashift.com/#block-1649323755021_0)
+  * [Outside-out Strategy: Positioned for success](https://academy.agendashift.com/#block-1649323755021_0)
+
+
+[Leading with Outcomes: Foundation](https://academy.agendashift.com/#block-1649323755021_0) prepares the ground with some introductory exercises.</p>
 
 ## Video
 
