@@ -73,7 +73,7 @@ A private workshop that will take you well on your way to implementing your own 
 
 ## Public or private?
 
-Public training is offered and certified by (or in association with) the [Agendashift Academy](https://academy.agendashift.com). Private workshops can be targetted directely at a range of organisational needs:
+Public training is offered and certified by (or in association with) the [Agendashift Academy](https://academy.agendashift.comhttps://us02web.zoom.us/j/83973736296?pwd=c1F6QWpBUThSQmdZOENGVmhYbG4vdz09ass). Private workshops can be targetted directely at a range of organisational needs:
 
   * To launch, refocus, or re-energise continuous transformation in your organisation
   * To enhance your organisation's internal coaching and change management capability
