@@ -19,3 +19,11 @@ The template’s vertical axis represents the outside-in journey from the custom
 > Source: *[Right to Left]*, chapter 5
 
 The questions are non-prescriptive by design, making as few assumptions as possible. Each question builds on its predecessors, supporting participants in a process of model building. Also by design, the layers, the relationships between them, and their respective questions leave room for some careful (non-prescriptive) unpacking by the facilitator.
+
+## The Outside-in Strategy Readiness Assessment</h1>
+
+Developed for the [Agendashift Academy](https://academy.agendashift.com") module **Outside-in Strategy: positioned for success**, this is a short (15-prompt) assessment tool, 3 prompts for each of the abovementioned 5 layers.
+
+Try it here:
+
+  * [Welcome to the Agendashift™ Outside-in Strategy Readiness Assessment](/surveys/ois-readiness)
