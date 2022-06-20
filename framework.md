@@ -11,14 +11,17 @@ Leadership principles and meta strategies – strategies for getting better at t
 
 As text:
 
-<b>
+<blockquote style="background-color: #F1FCFF; border-left: none;">
+    <ol>
+        <li>
+            <b>Keep asking the <i>agreement on outcomes</i> question:
+            <blockquote><i>What if we put agreement on outcomes before solutions?</i></b></blockquote>
+        </li>
+        <li style="margin-bottom:12px;"><b>Keep bringing outcomes to the foreground</b></li>
+        <li><b>Keep finding new places for strategy to happen</b></li>
+    </ol>
+</blockquote>
 
-> 1. Keep asking the <i>agreement on outcomes</i> question:
->    <blockquote>*What if we put agreement on outcomes before solutions?*</blockquote>
-> 2. Keep bringing outcomes to the foreground
-> 3. Keep finding new places for strategy to happen**
-
-</b>
 
 Our prefered starting point (of several) is authentic agreement on meaningful outcomes – the right people in the room, outcomes articulated in the participants’ own words and organised coherently into strategy.
 
