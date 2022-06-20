@@ -11,15 +11,18 @@ Leadership principles and meta strategies – strategies for getting better at t
 
 As text:
 
-> 1. Keep asking the <i>agreement on outcomes</i> question<sup>1</sup>
+<b>
+
+> 1. Keep asking the <i>agreement on outcomes</i> question:
+>    <blockquote>*What if we put agreement on outcomes before solutions?*</blockquote>
 > 2. Keep bringing outcomes to the foreground
-> 3. Keep finding new places for strategy to happen
->
-> <sup>1</sup><i>What if we put agreement on outcomes before solutions?</i>
+> 3. Keep finding new places for strategy to happen**
+
+</b>
 
 Our prefered starting point (of several) is authentic agreement on meaningful outcomes – the right people in the room, outcomes articulated in the participants’ own words and organised coherently into strategy.
 
-To keep outcomes in the foreground, we teach some straightforward ways to improve existing feedback opportunities or to add them where they are lacking.
+To keep outcomes in the foreground, we teach some straightforward ways to improve existing feedback opportunities or to add them where they are lacking. This too is a potential starting point.
 
 As for where to do strategy, the opportunities are typically plentiful and easy to recognise. Where it’s needed, explicitly inside-out and/or outside-in forms of strategy may be appropriate, the former beginning with the internal experience and capability of the scope in question, the latter starting with its external relationships.
 
@@ -50,9 +53,10 @@ The core activities provide teachable and repeatable demonstrations of the patte
 
 [![Agendashift core activities image][core_activities.image]][core_activities]
 
-Related:
+Related pages:
 
-  * [Models, sources, and inspirations][models_sources_inspirations]
-  * [Wholehearted][wholehearted]
+  * [Outcome-oriented][outcome_oriented]
   * [Engagement model][engagement model]
-  * [Five principles][principles] – mainly of historical value now
+  * [Wholehearted][wholehearted]
+  * [Models, sources, and inspirations][models_sources_inspirations]
+  * [Five principles][principles] (mainly of historical value now)
