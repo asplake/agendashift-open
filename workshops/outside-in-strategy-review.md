@@ -2,18 +2,22 @@
 
 The Agendashift Outside-in Strategy Review (OI-SR) is described in the 2019 book *[Right to Left: The digital leader’s guide to Lean and Agile]*. It comprises five sessions:
 
-  1. **Agree on a timeframe** – with [Celebration-5W]
-  2. AS given in the [Outside-in Strategy Review (OI-SR) template], the **outside-in questions** – capturing objectives for each of the following five layers in turn, sequenced to expose internal contradictions when looking back up/out in the customer direction:
+  1. Timeframe, strategic drivers/challenges, etc – with [Celebration-5W]
+  2. As given in the [Outside-in Strategy Review (OI-SR) template], the **outside-in questions** – capturing objectives for each of the following five layers in turn, sequenced to expose internal contradictions when looking back up/out in the customer direction:
 
-       1. Customer
-       2. Organisation
-       3. Product
-       4. Platform
-       5. Team(s)
+       1. **Customer** – “What's happening when we’re reaching the right customers, meeting their *strategic needs*<sup>1</sup>”
+       2. **Organisation** – “When we’re meeting those strategic needs, what kind of organisation are we?”
+       3. **Product** – “Through what products and services are we meeting those strategic needs?”
+       4. **Platform** – “When we’re that kind of organisation, meeting those strategic needs, delivering those products and services, what are the defining/critical capabilities that make it all possible?”
+       5. **Team(s)** – “When we’re achieving all of the above, what kind(s) of team(s) are we?”
+
+       <sup>1</sup>*Strategic needs*: Their needs, our strategy
 
   3. **From Obstacles to Outcomes** – with [15-minute FOTO]
   4. **Structure a plan**
   5. **Developing options** – with [the Agendashift Experiment A3 template]
+
+May be augemented by the Agendashift Outside-in Strategy Readiness [assessment][assessments] – an inside-out look at your capability to develop and pursue outside-in strategy.
 
 Workshop materials are available via the [partner programme][become_a_partner].
 
