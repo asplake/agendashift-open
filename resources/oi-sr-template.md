@@ -6,7 +6,7 @@ Workshop slideware for the Outside-in Strategy Review is included under the [Age
 
 Especially if (say) visual mapping techniques will be used, the template may be regarded more as a guide to the process rather than something to be filled in.
 
-For a given scope – team, team-of-teams, something bigger (up to whole organisation) – it poses an interesting sequence of generative questions that launch conversations of the form Ideal, Obstacles, Outcomes, in other words the [IdOO ("I do")] pattern.
+For a given scope – team, team-of-teams, something bigger (up to whole organisation) – it poses an interesting sequence of generative questions that launch conversations of the form Ideal, Obstacles, Outcomes, in other words the [IdOO ("I do")][idoo] pattern.
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
 
