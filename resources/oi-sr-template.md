@@ -4,6 +4,8 @@ The OI-SR template as described in chapter 5 of the 2019 book *[Right to Left: T
 
 Workshop slideware for the Outside-in Strategy Review is included under the [Agendashift partner programme][become_a_partner]. The [Agendashift Academy](https://academy.agendashift.com") module **Outside-in Strategy: positioned for success** is based on a hands-on walk through the model and its application.
 
+Especially if (say) visual mapping techniques will be used, the template may be regarded more as a guide to the process rather than something to be filled in.
+
 The template’s vertical axis represents the outside-in journey from the customer inwards, with a prompt in the form of a question for each of five layers (see below). Its horizontal axis represents the [Ideal, Obstacles, Outcomes (IdOO)] pattern, the outcomes organised into three time horizons in the manner of the [Plan on a Page] included with the resources for [15-minute FOTO].
 
 [![OI-SR template image][oi_sr_template.image]][oi_sr_template]
