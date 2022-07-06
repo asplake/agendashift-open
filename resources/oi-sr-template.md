@@ -16,7 +16,7 @@ An alternate version inspired by Option Relationship Mapping, Wardley Mapping, a
 
 The Ideal for each layer can be interpreted in various ways:
 
-  * As describing a “compelling future”, without which the strategy would lack motivation
+  * As describing a “compelling future” without which the strategy would lack motivation, implicitly or explicitly identifying its key challenge
   * As a *“possibility-focussed purpose statement”* – see *The Dynamics of Generative Change*, Gervase Bushe (BMI Publishing, 2020)
   * As describing a *job-to-be-done* – see *Demand-Side Sales 101: Stop Selling and Help Your Customers Make Progress*, Bob Moesta, Greg Engle (Lioncrest Publishing, 2020)
 
