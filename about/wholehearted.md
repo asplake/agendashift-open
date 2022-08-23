@@ -1,33 +1,12 @@
 # About: Our mission: Wholehearted
 
-**Our mission**: Helping organisations grow in wholeheartedness – to become less at war with themselves, their obstacles, imbalances, and contradictions identified and owned, value and meaning created through participation.
-
 [![Wholehearted image][wholehearted.image]][wholehearted]
 
-*Wholehearted* describes both a vision to pursue and something we can help you experience right away: people engaging on issues that matter, articulating outcomes in their own words, co-creating a coherent way forward. It’s what we do!
+(As text) Our mission: To help organisations grow in wholeheartedness – to see them characterised by:
 
-Part of *wholehearted’s* power is that people respond to it in so many different ways. Qualities such as these are suggested, typically falling into one of two main groups:
-
-  1. Wholeness, integrity, integration, alignment 
-  2. Engagement, energy, commitment
-
-Bringing the two groups together: purposefulness – alignment to purpose and commitment to purpose.
-
-The words we picked out in bold suggest some values:
-
-  * **Authentic engagement** – open, transparent, curious, listening; true to ourselves and respectful of others
-  * **Meaningful participation** – maximising the opportunity for people to contribute to conversations of real consequence
-  * Attention to **needs** and **outcomes** – not just hollow promises of future benefits but a fundamental reorientation, a paradigm shift, a change of language
-  * **Leadership** at every level – facilitating all of the above, responsible and accountable for it
-
-Contrast those values with the engagement-destroying inauthenticity and imposition of traditional change management. In the context of cultural and other adaptive challenges its record of failure is so extensive that good motives no longer excuse the harm. It’s why a clean break was necessary, and we’re proud to be in the vanguard of a new category, the *[engagement model]*.
-
-Many and varied are the obstacles that we have helped organisations think and work their way beyond. Some recurring themes however:
-
-  * Strategy, objectives, accountabilities, or performance inadequately defined or understood</li>
-  * Gaps between demand and capacity or between expectation and capability (often these go together)</li>
-  * Customer involvement in the process – too little, or too much of an unhelpful kind</li>
-  * Slowness in bringing forward innovation in product, service, technology, or process</li>
+* Their instinct to engage openly and authentically on their challenges, imbalances, and contradictions
+* Their commitment to participation as both catalyst for innovation and path to integration and wholeness
+* Their ongoing and purposeful renewal, realised through the conversation, creativity, and leadership of those closest to the action
 
 **Where we’re coming from**: Agendashift’s founders, partners, collaborators, supporters, and champions work at the exciting intersection of (Lean-Agile) Delivery, Strategy, and Organisation Development, are growing into that space, or see its potential for their organisations.
 
