@@ -5,7 +5,7 @@ These pages describe Agendashift – the *[wholehearted]* engagement model – a
 
 ## Strategies
 
-Leadership principles and meta strategies – strategies for getting better at the kinds of strategy that tend to drive transformation:
+In the form of three questions, three leadership principles and meta strategies – strategies for getting better at the kinds of strategy that tend to drive transformation:
 
 [![Framework image][framework.image]][framework]
 
@@ -13,15 +13,11 @@ As text:
 
 <blockquote style="background-color: #F1FCFF; border-left: none;">
     <ol>
-        <li>
-            <b>Keep asking the <i>agreement on outcomes</i> question:
-            <blockquote><i>What if we put agreement on outcomes before solutions?</i></b></blockquote>
-        </li>
-        <li style="margin-bottom:12px;"><b>Keep bringing outcomes to the foreground</b></li>
-        <li><b>Keep finding new places for strategy to happen</b></li>
+        <li><b>What if we put <i>agreement on outcomes</i> ahead of solutions?</b></li>
+        <li><b>How do we keep bringing outcomes to the foreground?</b></li>
+        <li><b>Where – and where else – should we be doing this?</b></li>
     </ol>
 </blockquote>
-
 
 Our prefered starting point (of several) is authentic agreement on meaningful outcomes – the right people in the room, outcomes articulated in the participants’ own words and organised coherently into strategy.
 
