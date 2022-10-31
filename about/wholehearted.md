@@ -2,11 +2,15 @@
 
 [![Wholehearted image][wholehearted.image]][wholehearted]
 
-(As text) Our mission: To help organisations grow in wholeheartedness – to see them characterised by:
+As text:
 
-* Their instinct to engage openly and authentically on their challenges, imbalances, and contradictions
-* Their commitment to participation as both catalyst for innovation and path to integration and wholeness
-* Their ongoing and purposeful renewal, realised through the conversation, creativity, and leadership of those closest to the action
+> **Our mission: To help organisations grow in wholeheartedness**
+>
+> Renewing themselves from the inside:
+> 
+> * **Engaging openly** on all that would make them unwhole – their challenges, imbalances, and contradictions
+> * **Inviting participation** in every dimension of the strategy process – developing it, pursuing it, finding new opportunities for it
+> * **Celebrating** the **initiative** of those closest to the need and the opportunity
 
 **Where we’re coming from**: Agendashift’s founders, partners, collaborators, supporters, and champions work at the exciting intersection of (Lean-Agile) Delivery, Strategy, and Organisation Development, are growing into that space, or see its potential for their organisations.
 
@@ -24,7 +28,7 @@
 **Actionable at every level of organisation**: *Wholehearted* is not just a dream. Whatever the level of organisation you operate at, there's plenty you can do to make it a reality. In yourself and in others you can develop the skills of the outcome-oriented strategy conversation. You can practice keeping outcomes in the foreground, creating both the space for impactful innovation and the sense of meaningful progress. You can learn to recognise the richness of opportunity that your organisation represents.
 
 
-[![Image: Three strategies](/static/images/framework/framework-overview-16x10-2022-04-v3-strategies.png)][outcome_oriented]
+[![Image: Three questions][home.image]][home]
 
 **Find out more**:
 
