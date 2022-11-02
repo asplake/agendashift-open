@@ -6,7 +6,7 @@ As text:
 
 > **Our mission: To help organisations grow in wholeheartedness**
 >
-> Renewing themselves from the inside:
+> Continously renewing themselves from the inside:
 > 
 > * **Engaging openly** on all that would make them unwhole – their challenges, imbalances, and contradictions
 > * **Inviting participation** in every dimension of the strategy process – developing it, pursuing it, finding new opportunities for it
@@ -32,8 +32,7 @@ As text:
 
 **Find out more**:
 
-  * [Agendashift Academy](https://academy.agendashift.com) – self-paced training for *“leaders in transforming organisations”*, all who aspire to that role, and those that support them
-  * [Become an Agendashift partner][become_a_partner] – for access to our workshop materials, assessment tools, and practitioner community
+  * [Leading with Outcomes](https://academy.agendashift.com/leading-with-outcomes) from the [Agendashift Academy](https://academy.agendashift.com) – self-paced training for *“leaders in transforming organisations”*, all who aspire to that role, and all those that support them
   * [Subscribe][subscribe] - join the Agendashift mailing list (1-3 updates per month)
   * [Slack][slack] – join our Slack community
   * The books:
