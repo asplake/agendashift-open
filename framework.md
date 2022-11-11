@@ -13,7 +13,7 @@ As text:
 
 <blockquote style="background-color: #F1FCFF; border-left: none;">
     <ol>
-        <li><b>What if we put <i>agreement on outcomes</i> ahead of solutions?</b></li>
+        <li><b>What if we put <i>agreement on outcomes</i> before solutions?</b></li>
         <li><b>How do we keep bringing outcomes to the foreground?</b></li>
         <li><b>Where – and where else – could we be developing and pursuing strategy?</b></li>
     </ol>
