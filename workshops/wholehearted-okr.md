@@ -67,7 +67,7 @@ The Wholehearted:OKR workshop comprises 8 sessions of between 90 and 120 minutes
   6. **Identify your measures of success**
       * ODIM: Objective, Decision, Insight, Metric
       * X-Matrix / TASTE: True North, Aspirations, Strategies, Tactics, Evidence
-      * The [2MBM] pattern: Meaning before Metric, Measure before Method
+      * The [Meaning, Measure, Method][patterns__meaning_measure_method] pattern
       * Leading & lagging indicators; Balancing metrics; Scoreboard
       * The organisational view: Who identifies with what metric?
       <br>

@@ -6,10 +6,12 @@ The [Core Agendashift workshop][core] includes the following Elaboration exercis
 
   * Choose an outcome
   * The Challenge Mapping questions (Challenge Mapping)¹
-  * Measures of success ([2MBM])
+  * Measures of success 
   * Option generation and prioritisation (15% Solutions)²
   * Hypothesis (Lean Startup)
   * Experiment A3 (Lean)
+
+See also **[Meaning, Measure, Method][patterns__meaning_measure_method]** for the overarching pattern.
 
 Longer workshops may add these and/or other related exercises/topics in combination with topics from [Operation]:
 

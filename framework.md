@@ -32,7 +32,7 @@ Each of those represents a possible starting point:
 Supporting the strategies, three [generative patterns][patterns] – non-prescriptive, repeatable, and recognisable structures into which a range of conversational and organisational tools can easily be inserted:
 
   1. [Ideal, Obstacles, Outcomes (IdOO)]
-  2. [Meaning before metric, measure before method (2MBM)][2MBM]
+  2. [Meaning, Measure, Method][patterns__meaning_measure_method]
   3. [Right-to-Left Strategy Deployment] (or simply *Right to Left*)  
 
 [![Agendashift patterns image][patterns.image]][patterns]

@@ -2,7 +2,7 @@
 
 [![IdOO image][patterns__idoo.image]][idoo]
 
-**IdOO** (“I do”) – a mnemonic for **Ideal**, **Obstacles**, **Outcomes** – is one of two key generative patterns in Agendashift. We use the IdOO pattern at different times and with different combinations of tools and prompts, but still the underlying pattern easily recognised.
+**IdOO** (“I do”) – a mnemonic for **Ideal**, **Obstacles**, **Outcomes** – is one of three key generative patterns in Agendashift. We use the IdOO pattern at different times and with different combinations of tools and prompts, but still the underlying pattern easily recognised.
 
 ## Motivation
 
@@ -13,23 +13,20 @@ Authentic agreement on meaningful outcomes is the most powerful enabler for stra
 
 ## Specific instances of the pattern
 
-Our transformation strategy workshops [Core], [Applied], and [Deep Dive] use the IdOO pattern at least twice:
+Our transformation strategy workshops use the IdOO pattern at least twice:
 
   * In [Discovery], reflecting on our provided [True North] statement, in a business context established by preceding exercises ([Celebration-5W] in particular), and the resulting outcomes organised in a [Plan on a Page]
   * In [Exploration], reflecting on prompts prioritised from our 42-prompt [assessment][assessments], context already established in Discovery, and outcomes then organised through [Mapping]
 
-Our various outside-in strategy review workshops employ the IdOO pattern either once or twice (see the [OI-SR template] for detail on the ‘layers’ below):
+Our various outside-in strategy review workshops typically employ the IdOO pattern either once or twice, for combinations of the the outside-in strategy template's five layers (see [OI-SR template]).
 
-  * In the *[Impact!]* workshop, for the Customer layer (only)
-  * In the [Wholehearted:OKR] workshop, initially for the Customer and Organisation layers and later the Product, Platform, and Teams(s) layers
-
-For both kinds of strategy workshop, the IdOO pattern is often there (though less explictly) in the ideation process, starting this time with the Ideal foe a specific outcome.
+For both kinds of strategy workshop, in the guise of the [Meaning, Measure, Method][patterns__meaning_measure_method] pattern, the IdOO pattern also features in the ideation process, starting this time with the Ideal for a specific outcome selected for action.
 
 Demonstrating IdOO at its most simple, the Agendashift [True North] deck asks the questions below in sequence, one slide at a time (the True North statement fulfulling the role of *generative image*, evoking a wide range of possible responses both spoken and unspoken):
 
   1. *When this is working at its ideal best for us, what’s that like?*
-  2. *And when that's happening, what new stories could we tell?*
-  3. *And in those stories, whose needs would we be meeting?*
+  2. *Whose needs would we be meeting?*
+  3. *What new stories could they tell?*
   4. *What stops that? What gets in the way?*
   5. *What would you like to have happen?*
   6. *Then what happens?* (And perhaps again: *Then what happens?*)
