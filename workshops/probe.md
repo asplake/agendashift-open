@@ -9,7 +9,7 @@ Topics and exercises:
   * Generating 15% Solutions²
   * Framing ideas as hypotheses
   * Developing experiments with the [Agendashift Experiment A3 Template][experiment_a3] (see below)
-  * Patterns: [2MBM], [IdOO], and [Right-to-Left Strategy Deployment]
+  * Patterns: [Meaning, Measure, Method][patterns__meaning_measure_method], [IdOO], and [Right-to-Left Strategy Deployment]
 
 ¹<small>See the [Ideal, Obstacles, Outcomes (IdOO) pattern][idoo] page for some Challenge Mapping references</small>  
 ²<small>[15% Solutions: Discover and Focus on What Each Person Has the Freedom and Resources to Do Now](https://www.liberatingstructures.com/7-15-solutions/) (liberatingstructures.com), Henri Lipmanowicz and Keith McCandless inspired by Prof. Gareth Morgan</small>
