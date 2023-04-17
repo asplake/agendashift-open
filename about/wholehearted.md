@@ -1,6 +1,9 @@
 # About: Our mission: Wholehearted
 
+[![Video: In times of change, what scales better than process (SEACON GLOBAL 2022 PT2)](https://www.youtube.com/embed/ozicj7SyzjY)](https://www.youtube.com/watch?v=Dr5iAUvTCWk)
+
 [![Wholehearted image][wholehearted.image]][wholehearted]
+
 
 As text:
 
