@@ -1,6 +1,6 @@
 # Agendashift’s generative patterns
 
-[![Framework overview image][patterns.image]][patterns]
+[![Agendashift patterns image][patterns.image]][patterns]
 
 Patterns for developing and pursuing strategy in the language of outcomes:
 
