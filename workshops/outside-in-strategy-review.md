@@ -5,7 +5,7 @@ The Agendashift Outside-in Strategy Review (OI-SR) is described in the 2019 book
   1. Timeframe, strategic drivers/challenges, etc – with [Celebration-5W]
   2. As given in the [Outside-in Strategy Review (OI-SR) template], the **outside-in questions** – capturing objectives for each of the following five layers in turn, sequenced to expose internal contradictions when looking back up/out in the customer direction:
 
-       1. **Customer** – “What's happening when we’re reaching the right customers, meeting their *strategic needs*<sup>1</sup>”
+       1. **Customer** – “What's happening when we’re reaching the right customers, meeting their *strategic needs*<sup>1</sup>?”
        2. **Organisation** – “When we’re meeting those strategic needs, what kind of organisation are we?”
        3. **Product** – “Through what products and services are we meeting those strategic needs?”
        4. **Platform** – “When we’re that kind of organisation, meeting those strategic needs, delivering those products and services, what are the defining/critical capabilities that make it all possible?”
