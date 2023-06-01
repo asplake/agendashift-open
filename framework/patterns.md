@@ -1,5 +1,7 @@
 # Agendashift’s generative patterns
 
+_”At every scope and scale, developing strategy together, pursuing strategy together, [agreement on] outcomes before solutions, working backwards from key moments of impact and learning”_
+
 [![Agendashift patterns image][patterns.image]][patterns]
 
 Patterns for developing and pursuing strategy in the language of outcomes:
