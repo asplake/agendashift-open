@@ -46,17 +46,3 @@ From the 2nd edition of _Agendashift_ (2021):
 See also:
 
   * [Theory of change](https://en.wikipedia.org/wiki/Theory_of_change) (en.wikipedia.org)
-
-## Core activities
-
-The core activities provide teachable and repeatable demonstrations of the patterns, using some of our favourite tools. NB: Other structures and tool choices are encouraged!
-
-[![Agendashift core activities image][core_activities.image]][core_activities]
-
-Related pages:
-
-  * [Outcome-oriented][outcome_oriented]
-  * [Engagement model][engagement model]
-  * [Wholehearted][wholehearted]
-  * [Models, sources, and inspirations][models_sources_inspirations]
-  * [Five principles][principles] (mainly of historical value now)
