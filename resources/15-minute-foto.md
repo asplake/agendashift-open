@@ -32,7 +32,7 @@ Role responsibilities:
  * __Coach__: Guides the conversation using only the clean questions from the card and the client’s own words
  * __Host__: Helps others enjoy a productive conversation, ensuring that “anything that sounds like an outcome” gets captured
 
-Understanding both formats can help participants to get up and running quickly (which is important). It doesn’t hurt therefore to show slides specific to the format you aren’t using, but you can skip or hide them if you prefer. There is nothing to prevent groups self-organising the Lite format into the Classic format, but the former may be seen as less intense. If you have the opportunity to play the game twice, use the Lite format first and the Classic format second.
+Understanding both formats can help participants to get up and running quickly (which is important). It doesn’t hurt therefore to show slides specific to the format you aren’t using, but you can skip or hide them if you prefer. There is nothing to prevent groups self-organising the Lite format into the Classic format, but the former may be seen as less intense. If you have the opportunity to play the game twice, use the more relaxed Lite format first and the Classic format second.
 
 ## Cheat mode
 
@@ -56,7 +56,7 @@ All of the above are available in self-paced and instructor-led formats. With th
 
 Except for the Adaptive Organisation Workshop, all of those use 15-minute FOTO by default; a shorter, Foundation-style exercise may be used in its place.
 
-Academy [subscribers and supporters][store] have access (via the [premium resources] page) to a slightly expanded deck formatted in the Adademy's house style.
+Academy [subscribers and supporters][store] have access (via the [premium resources] page) to an introductory video and a slightly expanded facilitation deck formatted in the Adademy's house style.
 
 ## Video
 
