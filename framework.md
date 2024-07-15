@@ -5,7 +5,7 @@ These pages describe Agendashift – the *[wholehearted]* engagement model upon 
 Its top level elements are its **strategies**, **generative patterns**, and the **agenda for change**. Of somewhat less importance are the **core activities** that package up many of the tools and exercises for which Agendashift is known. Through all of those run a golden thread, the language of outcomes.
 
 
-## Strategies
+## Principles
 
 In the form of three questions, three leadership principles and meta strategies – strategies for getting better at the kinds of strategy that tend to drive transformation:
 
@@ -17,7 +17,7 @@ As text:
     <ol>
         <li><b>What if we put <i>agreement on outcomes</i> before solutions?</b></li>
         <li><b>How do we keep bringing outcomes to the foreground?</b></li>
-        <li><b>Where – and where else – could we be developing and pursuing strategy?</b></li>
+        <li><b>Where – and where else – could we be engaging?</b></li>
     </ol>
 </blockquote>
 
@@ -42,7 +42,3 @@ Supporting the strategies, three [generative patterns][patterns] – non-prescri
 From the 2nd edition of _Agendashift_ (2021):
 
 > [The] agenda for change doesn’t start with a solution idea or a “target state” design. It is made principally of outcomes and the relationships between outcomes, and it is created, developed, and maintained through participation and experimentation. It’s an expression of shared understanding and strategy that unfolds and evolves as the organisation learns.
-
-See also:
-
-  * [Theory of change](https://en.wikipedia.org/wiki/Theory_of_change) (en.wikipedia.org)
