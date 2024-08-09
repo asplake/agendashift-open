@@ -1,6 +1,6 @@
 # Workshops
 
-This page describes workshops assembled from Agendashift's exercises and patterns, ready-made and tested facilitation materials made available via the [partner programme][become_a_partner]. For our integrated curriculum of self-paced study and workshop-based training, visit [Leading with Outcomes](https://academy.agendashift.com/leading-with-outcomes) (academy.agendashift.com). 
+This page describes workshops assembled from Agendashift's exercises and patterns, ready-made and tested facilitation materials made available via the [partner programme][become_a_partner]. For our integrated curriculum of self-paced study and workshop-based training, visit [Leading with Outcomes](https://academy.agendashift.com/c/leading-with-outcomes) (academy.agendashift.com). 
 
 One *[wholehearted]* engagement model, three workshop families:
 

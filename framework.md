@@ -1,6 +1,6 @@
 # Agendashift as framework
 
-These pages describe Agendashift – the *[wholehearted]* engagement model upon which [Leading with Outcomes](https://academy.agendashift.com/leading-with-outcomes) is built – as an open framework for continuous, outcome-oriented transformation.
+These pages describe Agendashift – the *[wholehearted]* engagement model upon which [Leading with Outcomes](https://academy.agendashift.com/c/leading-with-outcomes) is built – as an open framework for continuous, outcome-oriented transformation.
 
 Its top level elements are its **strategies**, **generative patterns**, and the **agenda for change**. Of somewhat less importance are the **core activities** that package up many of the tools and exercises for which Agendashift is known. Through all of those run a golden thread, the language of outcomes.
 

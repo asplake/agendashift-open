@@ -24,4 +24,4 @@ But it can also be read as something constructive, a generative pattern:
 
 Steps 1 and 2 together may be implemented by the IdOO (“I do”) pattern, [Ideal, Obstacles, Outcomes][idoo].
 
-In [Leading with Outcomes](https://academy.agendashift.com/leading-with-outcomes), The Meaning, Measure, Method pattern is introduced and applied in the [Foundation](https://academy.agendashift.com/leading-with-outcomes-foundation) module and used in the other three modules also.
+In [Leading with Outcomes](https://academy.agendashift.com/c/leading-with-outcomes), The Meaning, Measure, Method pattern is introduced and applied in the [Foundation](https://academy.agendashift.com/c/leading-with-outcomes-foundation) module and used in the other three modules also.
