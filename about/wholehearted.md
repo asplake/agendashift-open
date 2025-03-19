@@ -2,8 +2,6 @@
 
 [![Video: In times of change, what scales better than process (SEACON GLOBAL 2022 PT2)](https://www.youtube.com/embed/ozicj7SyzjY)](https://www.youtube.com/watch?v=Dr5iAUvTCWk)
 
-[![Wholehearted image][wholehearted.image]][wholehearted]
-
 
 As text:
 
@@ -20,6 +18,10 @@ More succinctly: **Engage**, **invite**, **celebrate**! Learn more about this ca
  * [Engage, Invite, Celebrate: Leading “wholeheartedly” for innovation](https://blog.agendashift.com/2024/07/11/engage-invite-celebrate-leading-wholeheartedly-for-innovation/) (blog.agendashift.com)
  * [Leading with Outcomes: Foundation] (academy.agendashift.com)
  * [Adaptive Organisation: Business agility at every scale] (academy.agendashift.com)
+
+And now the fifth book by Agendashift founder Mike Burrows:
+
+ * *[Wholehearted: Engaging with Complexity in the Deliberately Adaptive Organisation](/books/wholehearted)* (March 2025)
 
 ## Inspiration
 
